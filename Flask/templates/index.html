@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OCR Prediction</title>
+</head>
+<body>
+    <h2>Upload an Image for OCR</h2>
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept="image/*" required>
+        <input type="submit" value="Predict">
+    </form>
+
+    {% if filename %}
+        <h3>Uploaded Image:</h3>
+        <img src="{{ url_for('static', filename='uploads/' + filename) }}" width="300"><br>
+    {% endif %}
+
+    {% if prediction %}
+        <h3>Predicted Text:</h3>
+        <p><strong>{{ prediction }}</strong></p>
+    {% endif %}
+</body>
+</html>

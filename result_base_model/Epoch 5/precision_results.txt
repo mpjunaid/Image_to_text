@@ -1,0 +1,2 @@
+Training Precision: 0.9250
+Test Precision: 0.9450
