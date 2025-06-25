@@ -70,7 +70,24 @@ Fine-tuning the pre-trained model was attempted but could not be continued due t
 
 ### 3 Custom Baseline Model
 
+
+### 🧾 CRNN Model Architecture Summary
+
+| Layer       | Description                         | Output Shape         | Parameters |
+|-------------|-------------------------------------|----------------------|------------|
+| Conv2d #1   | Input: 1×32×100 → Conv(1→64, 3×3) + ReLU + MaxPool(2×2) | (64, 16, 50)         | 640        |
+| Conv2d #2   | Conv(64→128, 3×3) + ReLU + MaxPool(2×2)                | (128, 8, 25)         | 73,856     |
+| Reshape     | Permute + Flatten for RNN input                       | (B, 25, 1024)        | -          |
+| Bi-LSTM     | 1-layer, 256 hidden units, bidirectional              | (B, 25, 512)         | 2,628,608  |
+| Linear      | Fully Connected Layer (512 → 37)                      | (B, 25, 37)          | 18,981     |
+| **CTC Output** | Permute to (T, B, C) format for CTC loss            | (25, B, 37)          | -          |
+
+**Total Trainable Parameters:** ~2,722,085
+
+
 A simple custom model was implemented and trained on the dataset.
+
+There is another file make_dataset.py which will slect 1000 images for training and 200 images for testing. This is only done to save time while training the model.
 
 **Performance Metrics:**
 
