@@ -80,21 +80,27 @@ A simple custom model was implemented and trained on the dataset.
 | 100   | 1.0000             | 0.9475         |
 
 - All results saved in: `result_base_model/`
-- Graphs:
-  - ![Training Curve](result_base_model/Epoch_5/training_loss.png)
-  - ![Test Results](result_base_model/Epoch_100/training_loss.png)
+## Graphs
+
+![Training Curve](result_base_model/Epoch_5/training_loss.png)  
+*Figure 1: Training loss curve after 5 epochs*
+
+![Test Results](result_base_model/Epoch_100/training_loss.png)  
+*Figure 2: Training loss curve after 100 epochs*
 
 ---
 
-## 🌐 Flask Web App
+## Flask Web App
 
 A simple Flask app was created to run the trained OCR model on uploaded images.
 
 Location: `flask/`
 
-Example Screenshots:
-- ![App Screenshot 1](Flask/Correct_prediction.png)
-- ![App Screenshot 2](Flask/Wrong_Prediction.png)
+![App Screenshot 1](Flask/Correct_prediction.png)  
+*Figure 3: Correct prediction from the web app interface*
+
+![App Screenshot 2](Flask/Wrong_Prediction.png)  
+*Figure 4: Example of a misclassified prediction*
 
 ---
 
