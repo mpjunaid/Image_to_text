@@ -81,8 +81,8 @@ A simple custom model was implemented and trained on the dataset.
 
 - All results saved in: `result_base_model/`
 - Graphs:
-  - ![Training Curve](result_base_model/Epoch 5/training_loss.png)
-  - ![Test Results](result_base_model/Epoch 100/training_loss.png)
+  - ![Training Curve](result_base_model/Epoch_5/training_loss.png)
+  - ![Test Results](result_base_model/Epoch_100/training_loss.png)
 
 ---
 
@@ -93,8 +93,8 @@ A simple Flask app was created to run the trained OCR model on uploaded images.
 Location: `flask/`
 
 Example Screenshots:
-- ![App Screenshot 1](Flask/Correct prediction.png)
-- ![App Screenshot 2](Flask/Wrong Prediction.png)
+- ![App Screenshot 1](Flask/Correct_prediction.png)
+- ![App Screenshot 2](Flask/Wrong_Prediction.png)
 
 ---
 
