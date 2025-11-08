@@ -19,7 +19,7 @@ filename,text,predicted_text
 /content/cropped/Test/img1055_5.png,AUSTRALIA,which is still more than
 /content/cropped/Test/img1091_0.png,AUTHENTIC,0
 /content/cropped/Test/img1091_1.png,BAKERY,ses
-/content/cropped/Test/img1091_2.png,TLJ,0.
+/content/cropped/Test/img1091_2.png,TLJ,0
 /content/cropped/Test/img1091_3.png,SINCE,spoken
 /content/cropped/Test/img1091_4.png,1997,0
 /content/cropped/Test/img1092_2.png,NEWPRODUCT,extraerroducts
@@ -139,7 +139,7 @@ filename,text,predicted_text
 /content/cropped/Test/img1200_3.png,TLJ,TL I
 /content/cropped/Test/img1200_4.png,SINCE,extensive
 /content/cropped/Test/img1200_5.png,1997,noon
-/content/cropped/Test/img1200_6.png,TO,7.
+/content/cropped/Test/img1200_6.png,TO,7
 /content/cropped/Test/img1200_7.png,TOUS,tous
 /content/cropped/Test/img1291_0.png,CARMINES,darvinne's
 /content/cropped/Test/img1291_1.png,CARMINES,carminies .
@@ -225,7 +225,7 @@ filename,text,predicted_text
 /content/cropped/Test/img1348_4.png,YORK,spressed
 /content/cropped/Test/img1348_5.png,est,est
 /content/cropped/Test/img1348_6.png,Wings,wings
-/content/cropped/Test/img1348_7.png,04,0.
+/content/cropped/Test/img1348_7.png,4,0
 /content/cropped/Test/img1348_8.png,3,13
 /content/cropped/Test/img1391_0.png,NATURE,inactive
 /content/cropped/Test/img1391_1.png,VALLEY,valley .
@@ -266,7 +266,7 @@ filename,text,predicted_text
 /content/cropped/Test/img1397_3.png,adidas,collots
 /content/cropped/Test/img1397_4.png,SMOKE,since .
 /content/cropped/Test/img1397_5.png,LESS,1953
-/content/cropped/Test/img1397_6.png,BBQ,93.
+/content/cropped/Test/img1397_6.png,BBQ,93
 /content/cropped/Test/img1397_7.png,BUFFET,buffet .
 /content/cropped/Test/img1397_8.png,EAT,gent
 /content/cropped/Test/img1397_9.png,ALL,pilly
@@ -339,7 +339,7 @@ filename,text,predicted_text
 /content/cropped/Test/img1547_3.png,RIVIERA,Advice R.A
 /content/cropped/Test/img1547_4.png,201,"2011 ,"
 /content/cropped/Test/img1547_5.png,227,"1227 ,"
-/content/cropped/Test/img1547_6.png,7105,17105.
+/content/cropped/Test/img1547_6.png,7105,17105
 /content/cropped/Test/img1547_7.png,wwwm,wwwmill .
 /content/cropped/Test/img1547_8.png,rivieraproduce,rivieraprocence .
 /content/cropped/Test/img1547_9.png,com,comi-
@@ -358,14 +358,14 @@ filename,text,predicted_text
 /content/cropped/Test/img1549_4.png,TOTAL,total
 /content/cropped/Test/img1549_5.png,Trenton,tirenton .
 /content/cropped/Test/img1549_6.png,DIAMETER,diameter .
-/content/cropped/Test/img1549_7.png,4200,420.
+/content/cropped/Test/img1549_7.png,4200,420
 /content/cropped/Test/img1549_8.png,FEET,feet
 /content/cropped/Test/img1549_9.png,Roebling,"roebling ,"
 /content/cropped/Test/img1549_10.png,23317m,( 2333/.7mn )
 /content/cropped/Test/img1549_11.png,LENGTH,length
 /content/cropped/Test/img1549_12.png,Sons,sons
 /content/cropped/Test/img1549_13.png,Roeblings,roebling's
-/content/cropped/Test/img1549_14.png,128748,"0128,748"
+/content/cropped/Test/img1549_14.png,128748,"1,28,748"
 /content/cropped/Test/img1549_15.png,CABLE,cable
 /content/cropped/Test/img1549_16.png,WIRE,wire
 /content/cropped/Test/img1549_17.png,CABLE,cable
@@ -426,7 +426,7 @@ filename,text,predicted_text
 /content/cropped/Test/img1552_9.png,RIDGWELL,ridgwell
 /content/cropped/Test/img1552_10.png,WINDOWS,windows .
 /content/cropped/Test/img1552_12.png,CONSERVATORIES,Conservationaries
-/content/cropped/Test/img1552_13.png,01753,0/1752
+/content/cropped/Test/img1552_13.png,1753,0/1752
 /content/cropped/Test/img1552_14.png,647755,negant 7775s
 /content/cropped/Test/img1552_15.png,wwwridgwellwindowscouk,management consensus
 /content/cropped/Test/img1553_0.png,EZYS,4 Events .
@@ -551,7 +551,7 @@ filename,text,predicted_text
 /content/cropped/Test/img298_1.png,NANAK,0 0
 /content/cropped/Test/img298_2.png,ENGINEERING,associate
 /content/cropped/Test/img298_3.png,COLLEGE,sign
-/content/cropped/Test/img299_0.png,HOTEL,"4,00053"
+/content/cropped/Test/img299_0.png,HOTEL,"4,00,053"
 /content/cropped/Test/img299_1.png,RECEPTIOn,REBOLD B.00052
 /content/cropped/Test/img3_0.png,KELUAR,kell of
 /content/cropped/Test/img3_1.png,naughty,treaties .
@@ -621,7 +621,7 @@ filename,text,predicted_text
 /content/cropped/Test/img4_2.png,BAR,B.4
 /content/cropped/Test/img4_3.png,SOPRA,SD PR A
 /content/cropped/Test/img4_4.png,APERTIV,opposition
-/content/cropped/Test/img4_5.png,PROSECCO,"1270,000"
+/content/cropped/Test/img4_5.png,PROSECCO,"12,70,000"
 /content/cropped/Test/img4_6.png,FORMAGGI,torties .
 /content/cropped/Test/img4_7.png,DOLCI,video
 /content/cropped/Test/img4_8.png,DIGESTIVO,widespread
@@ -662,7 +662,7 @@ filename,text,predicted_text
 /content/cropped/Test/img497_5.png,Tho,7tho
 /content/cropped/Test/img497_6.png,Bl,initiability
 /content/cropped/Test/img497_7.png,Ky,lucky
-/content/cropped/Test/img497_8.png,264,26.
+/content/cropped/Test/img497_8.png,264,26
 /content/cropped/Test/img497_9.png,DONE,dots .
 /content/cropped/Test/img497_10.png,HOUSE,eous .
 /content/cropped/Test/img497_11.png,TURKISH,murderestester .
@@ -735,7 +735,7 @@ filename,text,predicted_text
 /content/cropped/Test/img534_5.png,IPOH,pool
 /content/cropped/Test/img535_0.png,KUALA,spy
 /content/cropped/Test/img535_1.png,LUMPUR,gadside
-/content/cropped/Test/img535_2.png,HERITAGE,5 February
+/content/cropped/Test/img535_2.png,HERITAGE,05-Feb
 /content/cropped/Test/img535_3.png,TRAIL,2
 /content/cropped/Test/img535_4.png,JEJAK,0
 /content/cropped/Test/img535_5.png,WARISAN,perpetment
@@ -755,9 +755,9 @@ filename,text,predicted_text
 /content/cropped/Test/img538_0.png,DALEWOOD,"dambwood ,"
 /content/cropped/Test/img538_1.png,TOWNHOMES,town-thonies .
 /content/cropped/Test/img539_0.png,MALIBU,NAVANCID BID
-/content/cropped/Test/img539_1.png,27,2.
+/content/cropped/Test/img539_1.png,27,2
 /content/cropped/Test/img539_2.png,MILES,nuggets
-/content/cropped/Test/img539_3.png,OF,0.
+/content/cropped/Test/img539_3.png,OF,0
 /content/cropped/Test/img539_4.png,SCENIC,scene
 /content/cropped/Test/img539_5.png,BEAUTY,observatory
 /content/cropped/Test/img539_6.png,a,100
@@ -769,7 +769,7 @@ filename,text,predicted_text
 /content/cropped/Test/img540_5.png,ORGANIC,economic
 /content/cropped/Test/img540_6.png,GLUTEN,system
 /content/cropped/Test/img540_7.png,FREE,1999
-/content/cropped/Test/img540_8.png,BIO,0.
+/content/cropped/Test/img540_8.png,BIO,0
 /content/cropped/Test/img540_9.png,GLUTENFRE,sluteness .
 /content/cropped/Test/img540_10.png,HIGh,high
 /content/cropped/Test/img540_11.png,FIBRE,fibrey
@@ -1103,7 +1103,7 @@ filename,text,predicted_text
 /content/cropped/Test/img582_7.png,TO,sp
 /content/cropped/Test/img582_8.png,EXIT,tempted
 /content/cropped/Test/img583_0.png,TheCoffeeBean,7 Teg
-/content/cropped/Test/img583_1.png,Tea,2.
+/content/cropped/Test/img583_1.png,Tea,2
 /content/cropped/Test/img583_2.png,Leaf,IL 28
 /content/cropped/Test/img584_0.png,AH,7
 /content/cropped/Test/img584_1.png,CHENG,oboeing
@@ -1147,8 +1147,8 @@ filename,text,predicted_text
 /content/cropped/Test/img591_2.png,House,extensiveness .
 /content/cropped/Test/img592_0.png,NANTUCKET,nantucket
 /content/cropped/Test/img592_1.png,WHALING,WHALDING
-/content/cropped/Test/img592_2.png,CO,0.
-/content/cropped/Test/img592_3.png,OLD,0.
+/content/cropped/Test/img592_2.png,CO,0
+/content/cropped/Test/img592_3.png,OLD,0
 /content/cropped/Test/img592_4.png,SOUTH,south .
 /content/cropped/Test/img592_5.png,WHARF,wharf
 /content/cropped/Test/img593_0.png,REPUBLIK,to
@@ -1445,7 +1445,7 @@ filename,text,predicted_text
 /content/cropped/Test/img632_1.png,ITALIAN,opportunation
 /content/cropped/Test/img632_2.png,RESTAURANT,suppression
 /content/cropped/Test/img632_3.png,Jasper,gasper .
-/content/cropped/Test/img632_4.png,000,000s .
+/content/cropped/Test/img632_4.png,0,000s .
 /content/cropped/Test/img632_6.png,550,0
 /content/cropped/Test/img632_7.png,GIN,fightments .
 /content/cropped/Test/img632_8.png,ARLO,airhol
@@ -1480,7 +1480,7 @@ filename,text,predicted_text
 /content/cropped/Test/img637_1.png,"RED""S",reds
 /content/cropped/Test/img638_0.png,PORT,siti
 /content/cropped/Test/img638_1.png,OF,of
-/content/cropped/Test/img638_2.png,TOKYO,5.
+/content/cropped/Test/img638_2.png,TOKYO,5
 /content/cropped/Test/img639_1.png,ZHONG,strong
 /content/cropped/Test/img639_2.png,YANG,yang
 /content/cropped/Test/img639_3.png,STREET,STREAM
@@ -1536,7 +1536,7 @@ filename,text,predicted_text
 /content/cropped/Test/img644_1.png,Shilin,S5311 in
 /content/cropped/Test/img644_2.png,Market,""" Not a nice"
 /content/cropped/Test/img644_5.png,B1,B11
-/content/cropped/Test/img645_0.png,65,65.
+/content/cropped/Test/img645_0.png,65,65
 /content/cropped/Test/img645_1.png,"NIKITA""S",nbicts
 /content/cropped/Test/img646_0.png,CBC,of boys .
 /content/cropped/Test/img646_1.png,CORONAD,Forward
@@ -1586,11 +1586,11 @@ filename,text,predicted_text
 /content/cropped/Test/img651_12.png,vi,0 1
 /content/cropped/Test/img651_13.png,Nhat,0 1
 /content/cropped/Test/img651_14.png,17C,2
-/content/cropped/Test/img651_15.png,HUNG,041
+/content/cropped/Test/img651_15.png,HUNG,41
 /content/cropped/Test/img651_16.png,VUONG,0
 /content/cropped/Test/img651_17.png,NHA,0 2
 /content/cropped/Test/img651_18.png,TRANG,exhaust
-/content/cropped/Test/img651_19.png,058,0 1
+/content/cropped/Test/img651_19.png,58,0 1
 /content/cropped/Test/img652_0.png,"T-BoneTom""s",SEBOTT STD 1.
 /content/cropped/Test/img652_1.png,STEAKS,streaks
 /content/cropped/Test/img652_2.png,BAR-B-Q,Bats 3-
@@ -1630,7 +1630,7 @@ filename,text,predicted_text
 /content/cropped/Test/img655_0.png,NEXT,treated by
 /content/cropped/Test/img655_1.png,PERFORMANCE,REBRED BEGINWAY
 /content/cropped/Test/img655_2.png,AT,fifty
-/content/cropped/Test/img655_3.png,9:30,1930
+/content/cropped/Test/img655_3.png,09:30,1930
 /content/cropped/Test/img656_0.png,SELAMAT,selamat
 /content/cropped/Test/img656_1.png,DATANG,datang
 /content/cropped/Test/img656_2.png,MEMORI,memoiri
@@ -1670,8 +1670,8 @@ filename,text,predicted_text
 /content/cropped/Test/img660_0.png,NATURE,will provide
 /content/cropped/Test/img660_1.png,NEXT,drexed
 /content/cropped/Test/img660_2.png,TOUR,touter .
-/content/cropped/Test/img660_3.png,AT,97.
-/content/cropped/Test/img660_4.png,00,po
+/content/cropped/Test/img660_3.png,AT,97
+/content/cropped/Test/img660_4.png,0,po
 /content/cropped/Test/img660_5.png,AM,a
 /content/cropped/Test/img661_0.png,www.Ricoquinn.com,accord recognition .
 /content/cropped/Test/img661_1.png,RicoQuinn,a b. Brownville Pennsylvania
@@ -1680,7 +1680,7 @@ filename,text,predicted_text
 /content/cropped/Test/img661_4.png,Rockin,rockers
 /content/cropped/Test/img661_5.png,BRothers,2
 /content/cropped/Test/img661_6.png,FIVE,five .
-/content/cropped/Test/img661_7.png,5,5.
+/content/cropped/Test/img661_7.png,5,5
 /content/cropped/Test/img661_8.png,POINTS,common
 /content/cropped/Test/img662_0.png,SOCO,spoop
 /content/cropped/Test/img662_1.png,High,jobs on
@@ -1702,7 +1702,7 @@ filename,text,predicted_text
 /content/cropped/Test/img663_6.png,PALACE,poststop
 /content/cropped/Test/img663_10.png,04-22259801,refee25900s .
 /content/cropped/Test/img664_0.png,85,its
-/content/cropped/Test/img664_1.png,13,113.
+/content/cropped/Test/img664_1.png,13,113
 /content/cropped/Test/img664_2.png,85,885
 /content/cropped/Test/img664_3.png,RM,1
 /content/cropped/Test/img664_5.png,GRAIN,0 0
@@ -1736,7 +1736,7 @@ filename,text,predicted_text
 /content/cropped/Test/img664_37.png,20,7
 /content/cropped/Test/img664_38.png,11,2
 /content/cropped/Test/img664_39.png,20,1st
-/content/cropped/Test/img665_0.png,CAPILANO,0.
+/content/cropped/Test/img665_0.png,CAPILANO,0
 /content/cropped/Test/img665_1.png,EST,est
 /content/cropped/Test/img665_2.png,SUSPENSION,2th generation .
 /content/cropped/Test/img665_3.png,BRIDGE,bridged
@@ -1762,7 +1762,7 @@ filename,text,predicted_text
 /content/cropped/Test/img668_2.png,UNLIMITED,unnlimited
 /content/cropped/Test/img668_3.png,ADMISSION,admission
 /content/cropped/Test/img668_4.png,FOR,sfi
-/content/cropped/Test/img668_5.png,365,365.
+/content/cropped/Test/img668_5.png,365,365
 /content/cropped/Test/img668_6.png,DAYS,lowers .
 /content/cropped/Test/img668_7.png,DISCOUNTS,discounts
 /content/cropped/Test/img668_8.png,FREE,former
@@ -1968,7 +1968,7 @@ filename,text,predicted_text
 /content/cropped/Test/img8_1.png,CAFE,six .
 /content/cropped/Test/img8_2.png,HOME,0
 /content/cropped/Test/img8_3.png,ROASTED,rcasted
-/content/cropped/Test/img8_4.png,COFFEE,0358
+/content/cropped/Test/img8_4.png,COFFEE,358
 /content/cropped/Test/img8_5.png,Pokka,pokka
 /content/cropped/Test/img8_6.png,Cafe,cafe .
 /content/cropped/Test/img800_0.png,CREATION,creation
@@ -1978,7 +1978,7 @@ filename,text,predicted_text
 /content/cropped/Test/img800_4.png,org,couples .
 /content/cropped/Test/img800_5.png,ANKYLOSAURUS,Tank-Neosaurus .
 /content/cropped/Test/img800_6.png,THE,to the
-/content/cropped/Test/img800_7.png,11,11.
+/content/cropped/Test/img800_7.png,11,11
 /content/cropped/Test/img866_0.png,LONDON,would day
 /content/cropped/Test/img866_1.png,BAKERS,bakers
 /content/cropped/Test/img866_2.png,1931,1931
@@ -2013,7 +2013,7 @@ filename,text,predicted_text
 /content/cropped/Test/img892_5.png,SALES,sales .
 /content/cropped/Test/img892_6.png,SUPP,super
 /content/cropped/Test/img892_7.png,SERVICE,service .
-/content/cropped/Test/img892_8.png,CO,00.
+/content/cropped/Test/img892_8.png,CO,0
 /content/cropped/Test/img892_10.png,HECHT,the crew .
 /content/cropped/Test/img892_11.png,SEWING,escending
 /content/cropped/Test/img892_13.png,CUTTING,out-
@@ -2078,10 +2078,10 @@ filename,text,predicted_text
 /content/cropped/Test/img903_8.png,Wings,wing
 /content/cropped/Test/img903_9.png,2466,99Hz
 /content/cropped/Test/img903_10.png,266,992
-/content/cropped/Test/img903_11.png,055,990
+/content/cropped/Test/img903_11.png,55,990
 /content/cropped/Test/img903_12.png,7650,2
 /content/cropped/Test/img903_13.png,397,fog
-/content/cropped/Test/img903_14.png,04,sp
+/content/cropped/Test/img903_14.png,4,sp
 /content/cropped/Test/img903_15.png,Kim,2
 /content/cropped/Test/img903_16.png,hikin,5
 /content/cropped/Test/img91_0.png,BIKES,sited
