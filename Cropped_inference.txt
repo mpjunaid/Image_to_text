@@ -1,0 +1,2211 @@
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+Some weights of VisionEncoderDecoderModel were not initialized from the model checkpoint at microsoft/trocr-base-handwritten and are newly initialized: ['encoder.pooler.dense.bias', 'encoder.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+File: img1000_0.png -> Decoded Text: drink
+File: img1000_1.png -> Decoded Text: s
+File: img1000_2.png -> Decoded Text: 0
+File: img1000_4.png -> Decoded Text: comes
+File: img1000_5.png -> Decoded Text: 0 1
+File: img100_0.png -> Decoded Text: is COMMUN BILL BVA
+File: img100_1.png -> Decoded Text: workers
+File: img1055_0.png -> Decoded Text: sodium
+File: img1055_1.png -> Decoded Text: mis-applements
+File: img1055_2.png -> Decoded Text: lundily
+File: img1055_4.png -> Decoded Text: public background education
+File: img1055_5.png -> Decoded Text: which is still more than
+File: img1091_0.png -> Decoded Text: 0
+File: img1091_1.png -> Decoded Text: ses
+File: img1091_2.png -> Decoded Text: 0.
+File: img1091_3.png -> Decoded Text: spoken
+File: img1091_4.png -> Decoded Text: 0
+File: img1092_2.png -> Decoded Text: extraerroducts
+File: img1092_4.png -> Decoded Text: colourful
+File: img1092_5.png -> Decoded Text: ydgurt .
+File: img1092_9.png -> Decoded Text: nousselous
+File: img1093_0.png -> Decoded Text: ep
+File: img1093_1.png -> Decoded Text: sledon
+File: img1093_2.png -> Decoded Text: opportunity
+File: img1093_3.png -> Decoded Text: wigs .
+File: img1093_4.png -> Decoded Text: LST 57
+File: img1093_5.png -> Decoded Text: spoken
+File: img1093_6.png -> Decoded Text: biscuffs .
+File: img1094_0.png -> Decoded Text: imiacan
+File: img1094_1.png -> Decoded Text: traise )
+File: img1094_3.png -> Decoded Text: establishment .
+File: img1094_4.png -> Decoded Text: lin .
+File: img1094_5.png -> Decoded Text: 2008 .
+File: img1095_0.png -> Decoded Text: im
+File: img1095_1.png -> Decoded Text: food
+File: img1095_2.png -> Decoded Text: disposable
+File: img1095_3.png -> Decoded Text: sorrowers .
+File: img1095_4.png -> Decoded Text: psychological and
+File: img1095_5.png -> Decoded Text: 2008
+File: img1095_6.png -> Decoded Text: invincan
+File: img1095_7.png -> Decoded Text: master
+File: img1096_0.png -> Decoded Text: stands
+File: img1096_1.png -> Decoded Text: a
+File: img1096_10.png -> Decoded Text: fori
+File: img1096_11.png -> Decoded Text: measuring
+File: img1096_12.png -> Decoded Text: inumman .
+File: img1096_13.png -> Decoded Text: personal
+File: img1096_14.png -> Decoded Text: recognition .
+File: img1096_15.png -> Decoded Text: ( Biometrics .
+File: img1096_16.png -> Decoded Text: physiological
+File: img1096_17.png -> Decoded Text: preinvitational .
+File: img1096_19.png -> Decoded Text: biometric
+File: img1096_2.png -> Decoded Text: spots
+File: img1096_20.png -> Decoded Text: systems .
+File: img1096_3.png -> Decoded Text: 0
+File: img1096_4.png -> Decoded Text: technology
+File: img1096_5.png -> Decoded Text: 2 .
+File: img1096_7.png -> Decoded Text: introduction
+File: img1096_8.png -> Decoded Text: bionniatrics .
+File: img1096_9.png -> Decoded Text: biometrics .
+File: img1097_0.png -> Decoded Text: commonwealth
+File: img1097_3.png -> Decoded Text: a
+File: img1097_4.png -> Decoded Text: over sixty .
+File: img1097_5.png -> Decoded Text: 0
+File: img1097_6.png -> Decoded Text: a
+File: img1097_7.png -> Decoded Text: newark
+File: img1097_8.png -> Decoded Text: for
+File: img1097_9.png -> Decoded Text: person
+File: img1098_0.png -> Decoded Text: absurance
+File: img1098_1.png -> Decoded Text: technique
+File: img1098_10.png -> Decoded Text: ago
+File: img1098_11.png -> Decoded Text: 1979
+File: img1098_12.png -> Decoded Text: 0
+File: img1098_13.png -> Decoded Text: compression
+File: img1098_2.png -> Decoded Text: discrete
+File: img1098_3.png -> Decoded Text: lossy
+File: img1098_4.png -> Decoded Text: cobil
+File: img1098_5.png -> Decoded Text: quantization
+File: img1098_6.png -> Decoded Text: in
+File: img1098_7.png -> Decoded Text: yoming
+File: img1098_9.png -> Decoded Text: 0
+File: img1099_0.png -> Decoded Text: I
+File: img1099_1.png -> Decoded Text: doubt
+File: img1099_2.png -> Decoded Text: fi
+File: img1099_3.png -> Decoded Text: extra
+File: img1099_4.png -> Decoded Text: siti
+File: img1099_6.png -> Decoded Text: rida
+File: img10_0.png -> Decoded Text: US viewers
+File: img10_1.png -> Decoded Text: microdevelopment analysis
+File: img10_2.png -> Decoded Text: to obtain
+File: img10_5.png -> Decoded Text: 1 .
+File: img10_6.png -> Decoded Text: program
+File: img1100_0.png -> Decoded Text: 0 091
+File: img1100_1.png -> Decoded Text: and
+File: img1100_3.png -> Decoded Text: 0 1
+File: img1100_4.png -> Decoded Text: 0 1
+File: img1100_5.png -> Decoded Text: with the
+File: img1191_0.png -> Decoded Text: 1 1
+File: img1191_1.png -> Decoded Text: 0 1
+File: img1191_2.png -> Decoded Text: 2 1
+File: img1191_3.png -> Decoded Text: #
+File: img1192_0.png -> Decoded Text: fy
+File: img1192_1.png -> Decoded Text: sUD acts
+File: img1192_2.png -> Decoded Text: addy
+File: img1192_3.png -> Decoded Text: sUDs
+File: img1193_1.png -> Decoded Text: a
+File: img1193_2.png -> Decoded Text: 8
+File: img1193_3.png -> Decoded Text: 7
+File: img1193_4.png -> Decoded Text: 2
+File: img1193_5.png -> Decoded Text: 0 1
+File: img1194_0.png -> Decoded Text: carnbow
+File: img1194_1.png -> Decoded Text: row
+File: img1194_2.png -> Decoded Text: Appointment the position
+File: img1195_1.png -> Decoded Text: sudidily
+File: img1195_2.png -> Decoded Text: spouse .
+File: img1195_3.png -> Decoded Text: dishes .
+File: img1195_4.png -> Decoded Text: 13
+File: img1195_5.png -> Decoded Text: 0 0
+File: img1195_6.png -> Decoded Text: leacherly
+File: img1195_7.png -> Decoded Text: caffe .
+File: img1196_0.png -> Decoded Text: seafood
+File: img1196_1.png -> Decoded Text: shack
+File: img1196_2.png -> Decoded Text: 3 7
+File: img1196_3.png -> Decoded Text: 2 . The
+File: img1196_4.png -> Decoded Text: louie
+File: img1196_5.png -> Decoded Text: lingumps
+File: img1197_0.png -> Decoded Text: thomas
+File: img1197_1.png -> Decoded Text: hamburgers
+File: img1197_2.png -> Decoded Text: women .
+File: img1197_3.png -> Decoded Text: corrects
+File: img1197_4.png -> Decoded Text: newell
+File: img1198_0.png -> Decoded Text: ELD IV 27
+File: img1199_0.png -> Decoded Text: to avoid
+File: img1200_0.png -> Decoded Text: 2pm
+File: img1200_1.png -> Decoded Text: eff info
+File: img1200_2.png -> Decoded Text: nuzzing
+File: img1200_3.png -> Decoded Text: TL I
+File: img1200_4.png -> Decoded Text: extensive
+File: img1200_5.png -> Decoded Text: noon
+File: img1200_6.png -> Decoded Text: 7.
+File: img1200_7.png -> Decoded Text: tous
+File: img1291_0.png -> Decoded Text: darvinne's
+File: img1291_1.png -> Decoded Text: carminies .
+File: img1292_0.png -> Decoded Text: 100
+File: img1292_1.png -> Decoded Text: 1961 62
+File: img1292_10.png -> Decoded Text: new
+File: img1292_11.png -> Decoded Text: 0 0
+File: img1292_12.png -> Decoded Text: 1961 62
+File: img1292_13.png -> Decoded Text: 1st
+File: img1292_2.png -> Decoded Text: 0 0
+File: img1292_3.png -> Decoded Text: 2
+File: img1292_4.png -> Decoded Text: 2
+File: img1292_5.png -> Decoded Text: system
+File: img1292_6.png -> Decoded Text: vote .
+File: img1292_7.png -> Decoded Text: 100
+File: img1292_8.png -> Decoded Text: 0
+File: img1292_9.png -> Decoded Text: ill
+File: img1293_0.png -> Decoded Text: third
+File: img1293_1.png -> Decoded Text: 0 0
+File: img1293_4.png -> Decoded Text: spressed
+File: img1293_5.png -> Decoded Text: transomposition .
+File: img1293_6.png -> Decoded Text: rock
+File: img1293_7.png -> Decoded Text: spoken
+File: img1293_8.png -> Decoded Text: Print export
+File: img1294_0.png -> Decoded Text: wigs .
+File: img1294_1.png -> Decoded Text: 0
+File: img1294_2.png -> Decoded Text: 0 0000
+File: img1294_3.png -> Decoded Text: miscessory
+File: img1294_4.png -> Decoded Text: 0
+File: img1294_5.png -> Decoded Text: successibilities and
+File: img1294_6.png -> Decoded Text: 1
+File: img1294_7.png -> Decoded Text: 2
+File: img1294_8.png -> Decoded Text: 0
+File: img1295_0.png -> Decoded Text: shop
+File: img1295_1.png -> Decoded Text: baird .
+File: img1295_2.png -> Decoded Text: cable
+File: img1295_3.png -> Decoded Text: economic education
+File: img1295_4.png -> Decoded Text: 0
+File: img1295_5.png -> Decoded Text: the most important
+File: img1296_0.png -> Decoded Text: topping the
+File: img1296_1.png -> Decoded Text: salon .
+File: img1296_10.png -> Decoded Text: 0 0
+File: img1296_11.png -> Decoded Text: ts
+File: img1296_12.png -> Decoded Text: 2
+File: img1296_15.png -> Decoded Text: 0
+File: img1296_16.png -> Decoded Text: commonwealth
+File: img1296_17.png -> Decoded Text: 0
+File: img1296_18.png -> Decoded Text: 0
+File: img1296_19.png -> Decoded Text: 0
+File: img1296_2.png -> Decoded Text: elenames .
+File: img1296_20.png -> Decoded Text: 1
+File: img1296_3.png -> Decoded Text: more .
+File: img1296_4.png -> Decoded Text: promotion .
+File: img1296_5.png -> Decoded Text: fictional
+File: img1296_6.png -> Decoded Text: pillars
+File: img1296_7.png -> Decoded Text: 1
+File: img1296_8.png -> Decoded Text: 2
+File: img1296_9.png -> Decoded Text: 0
+File: img1297_0.png -> Decoded Text: conventional issues in
+File: img1297_1.png -> Decoded Text: the most important
+File: img1297_2.png -> Decoded Text: a member of the
+File: img1297_3.png -> Decoded Text: 0 1
+File: img1297_4.png -> Decoded Text: 0 1
+File: img1297_5.png -> Decoded Text: 0 1
+File: img1297_6.png -> Decoded Text: 0 1
+File: img1298_0.png -> Decoded Text: FTI
+File: img1298_1.png -> Decoded Text: t-mixies .
+File: img1298_2.png -> Decoded Text: 2 0
+File: img1299_0.png -> Decoded Text: 0 7
+File: img1299_1.png -> Decoded Text: 0 0000
+File: img1299_2.png -> Decoded Text: 1873
+File: img1299_3.png -> Decoded Text: Tiers
+File: img1299_4.png -> Decoded Text: A.A
+File: img1299_5.png -> Decoded Text: tops.
+File: img1299_6.png -> Decoded Text: contime
+File: img1300_0.png -> Decoded Text: sp
+File: img1300_1.png -> Decoded Text: ts
+File: img1300_2.png -> Decoded Text: 70
+File: img1348_0.png -> Decoded Text: spotsmouth .
+File: img1348_1.png -> Decoded Text: of
+File: img1348_2.png -> Decoded Text: under the
+File: img1348_3.png -> Decoded Text: topping
+File: img1348_4.png -> Decoded Text: spressed
+File: img1348_5.png -> Decoded Text: est
+File: img1348_6.png -> Decoded Text: wings
+File: img1348_7.png -> Decoded Text: 0.
+File: img1348_8.png -> Decoded Text: 13
+File: img1391_0.png -> Decoded Text: inactive
+File: img1391_1.png -> Decoded Text: valley .
+File: img1391_2.png -> Decoded Text: country
+File: img1391_3.png -> Decoded Text: granola
+File: img1391_4.png -> Decoded Text: being
+File: img1391_5.png -> Decoded Text: oats .
+File: img1391_7.png -> Decoded Text: floney
+File: img1391_8.png -> Decoded Text: 12
+File: img1391_9.png -> Decoded Text: bars .
+File: img1392_0.png -> Decoded Text: cannery
+File: img1392_1.png -> Decoded Text: rory
+File: img1392_2.png -> Decoded Text: anti-
+File: img1392_3.png -> Decoded Text: 1
+File: img1392_4.png -> Decoded Text: wassex
+File: img1392_5.png -> Decoded Text: 45771
+File: img1392_6.png -> Decoded Text: swaven
+File: img1392_7.png -> Decoded Text: still
+File: img1393_3.png -> Decoded Text: ID UP.DING
+File: img1394_0.png -> Decoded Text: surveyed
+File: img1394_1.png -> Decoded Text: withdrawn .
+File: img1395_0.png -> Decoded Text: wellness
+File: img1395_1.png -> Decoded Text: 193
+File: img1395_2.png -> Decoded Text: yirispies .
+File: img1395_3.png -> Decoded Text: fireaus .
+File: img1395_5.png -> Decoded Text: transportation
+File: img1395_6.png -> Decoded Text: scumures .
+File: img1395_7.png -> Decoded Text: witches .
+File: img1395_8.png -> Decoded Text: origins call
+File: img1395_9.png -> Decoded Text: men
+File: img1396_0.png -> Decoded Text: spots
+File: img1396_1.png -> Decoded Text: aute
+File: img1396_2.png -> Decoded Text: felt
+File: img1396_3.png -> Decoded Text: ext
+File: img1396_4.png -> Decoded Text: MR.S
+File: img1397_0.png -> Decoded Text: outjet
+File: img1397_1.png -> Decoded Text: you
+File: img1397_10.png -> Decoded Text: farm .
+File: img1397_11.png -> Decoded Text: s
+File: img1397_12.png -> Decoded Text: fig
+File: img1397_13.png -> Decoded Text: 0
+File: img1397_3.png -> Decoded Text: collots
+File: img1397_4.png -> Decoded Text: since .
+File: img1397_5.png -> Decoded Text: 1953
+File: img1397_6.png -> Decoded Text: 93.
+File: img1397_7.png -> Decoded Text: buffet .
+File: img1397_8.png -> Decoded Text: gent
+File: img1397_9.png -> Decoded Text: pilly
+File: img1398_0.png -> Decoded Text: birkenstock .
+File: img1398_1.png -> Decoded Text: 0
+File: img1398_2.png -> Decoded Text: proposed
+File: img1398_3.png -> Decoded Text: mile is
+File: img1398_4.png -> Decoded Text: 0
+File: img1398_5.png -> Decoded Text: 0
+File: img1398_6.png -> Decoded Text: stronged
+File: img1398_7.png -> Decoded Text: sp
+File: img1398_8.png -> Decoded Text: ionsignies .
+File: img1399_0.png -> Decoded Text: s
+File: img1399_1.png -> Decoded Text: 0xiii
+File: img1399_2.png -> Decoded Text: 0
+File: img1399_3.png -> Decoded Text: spy
+File: img1399_4.png -> Decoded Text: 2ee
+File: img1399_5.png -> Decoded Text: 0
+File: img1399_6.png -> Decoded Text: 0
+File: img1400_0.png -> Decoded Text: sp
+File: img1400_1.png -> Decoded Text: 2nd
+File: img1400_2.png -> Decoded Text: cafe
+File: img1539_0.png -> Decoded Text: 1 9ers .
+File: img1539_1.png -> Decoded Text: gads
+File: img1539_2.png -> Decoded Text: www old
+File: img1539_3.png -> Decoded Text: 2
+File: img1540_0.png -> Decoded Text: fashionary .
+File: img1540_1.png -> Decoded Text: 0 0000
+File: img1540_2.png -> Decoded Text: Augustine
+File: img1540_3.png -> Decoded Text: using
+File: img1540_4.png -> Decoded Text: hatchy
+File: img1541_0.png -> Decoded Text: 558
+File: img1541_1.png -> Decoded Text: full
+File: img1541_2.png -> Decoded Text: 1955 56
+File: img1541_3.png -> Decoded Text: 0
+File: img1541_4.png -> Decoded Text: JANCE SIGN
+File: img1541_5.png -> Decoded Text: one
+File: img1541_6.png -> Decoded Text: memory
+File: img1542_0.png -> Decoded Text: 0 1
+File: img1542_1.png -> Decoded Text: to
+File: img1543_0.png -> Decoded Text: 5 1
+File: img1543_1.png -> Decoded Text: spots
+File: img1543_2.png -> Decoded Text: 9
+File: img1543_3.png -> Decoded Text: after
+File: img1543_4.png -> Decoded Text: to
+File: img1544_0.png -> Decoded Text: 13 days
+File: img1544_1.png -> Decoded Text: farmlessness
+File: img1544_2.png -> Decoded Text: trem
+File: img1544_3.png -> Decoded Text: pumpsful
+File: img1544_4.png -> Decoded Text: pick
+File: img1545_0.png -> Decoded Text: assertments
+File: img1545_1.png -> Decoded Text: establishment
+File: img1545_2.png -> Decoded Text: commentments
+File: img1546_0.png -> Decoded Text: 2 months
+File: img1546_1.png -> Decoded Text: transportation .
+File: img1546_2.png -> Decoded Text: propaganda
+File: img1546_3.png -> Decoded Text: softiest
+File: img1546_4.png -> Decoded Text: perseverance
+File: img1546_5.png -> Decoded Text: strenggershire .
+File: img1546_6.png -> Decoded Text: 1973
+File: img1546_7.png -> Decoded Text: may they are
+File: img1546_9.png -> Decoded Text: 65
+File: img1547_0.png -> Decoded Text: produce
+File: img1547_1.png -> Decoded Text: sphing
+File: img1547_2.png -> Decoded Text: wildsongship
+File: img1547_3.png -> Decoded Text: Advice R.A
+File: img1547_4.png -> Decoded Text: 2011 ,
+File: img1547_5.png -> Decoded Text: 1227 ,
+File: img1547_6.png -> Decoded Text: 17105.
+File: img1547_7.png -> Decoded Text: wwwmill .
+File: img1547_8.png -> Decoded Text: rivieraprocence .
+File: img1547_9.png -> Decoded Text: comi-
+File: img1548_0.png -> Decoded Text: G.
+File: img1548_1.png -> Decoded Text: 1 . The
+File: img1548_2.png -> Decoded Text: pasta
+File: img1548_3.png -> Decoded Text: seafood
+File: img1548_4.png -> Decoded Text: pizza
+File: img1548_5.png -> Decoded Text: UPSIDATES
+File: img1548_6.png -> Decoded Text: sunning
+File: img1548_7.png -> Decoded Text: 0
+File: img1549_0.png -> Decoded Text: span
+File: img1549_1.png -> Decoded Text: main .
+File: img1549_10.png -> Decoded Text: ( 2333/.7mn )
+File: img1549_11.png -> Decoded Text: length
+File: img1549_12.png -> Decoded Text: sons
+File: img1549_13.png -> Decoded Text: roebling's
+File: img1549_14.png -> Decoded Text: 0128,748
+File: img1549_15.png -> Decoded Text: cable
+File: img1549_16.png -> Decoded Text: wire
+File: img1549_17.png -> Decoded Text: cable
+File: img1549_18.png -> Decoded Text: jersey
+File: img1549_19.png -> Decoded Text: 122.226
+File: img1549_2.png -> Decoded Text: weight
+File: img1549_20.png -> Decoded Text: co.
+File: img1549_21.png -> Decoded Text: mittons )
+File: img1549_22.png -> Decoded Text: cable
+File: img1549_23.png -> Decoded Text: suspenders
+File: img1549_24.png -> Decoded Text: each
+File: img1549_25.png -> Decoded Text: used
+File: img1549_26.png -> Decoded Text: 27.572
+File: img1549_27.png -> Decoded Text: tons
+File: img1549_28.png -> Decoded Text: accessories )
+File: img1549_29.png -> Decoded Text: 24,500
+File: img1549_3.png -> Decoded Text: contractor
+File: img1549_30.png -> Decoded Text: miles .
+File: img1549_31.png -> Decoded Text: cable
+File: img1549_32.png -> Decoded Text: 7650
+File: img1549_33.png -> Decoded Text: kem )
+File: img1549_34.png -> Decoded Text: one
+File: img1549_35.png -> Decoded Text: john .
+File: img1549_36.png -> Decoded Text: 1924cm.
+File: img1549_37.png -> Decoded Text: 80,000
+File: img1549_38.png -> Decoded Text: in
+File: img1549_39.png -> Decoded Text: ft.
+File: img1549_4.png -> Decoded Text: total
+File: img1549_40.png -> Decoded Text: of
+File: img1549_41.png -> Decoded Text: 3/318
+File: img1549_42.png -> Decoded Text: al
+File: img1549_43.png -> Decoded Text: on
+File: img1549_44.png -> Decoded Text: 0 0
+File: img1549_45.png -> Decoded Text: gentie
+File: img1549_46.png -> Decoded Text: 0 1
+File: img1549_47.png -> Decoded Text: of
+File: img1549_48.png -> Decoded Text: of
+File: img1549_49.png -> Decoded Text: cable
+File: img1549_5.png -> Decoded Text: tirenton .
+File: img1549_51.png -> Decoded Text: new
+File: img1549_52.png -> Decoded Text: wires
+File: img1549_6.png -> Decoded Text: diameter .
+File: img1549_7.png -> Decoded Text: 420.
+File: img1549_8.png -> Decoded Text: feet
+File: img1549_9.png -> Decoded Text: roebling ,
+File: img1550_0.png -> Decoded Text: migration
+File: img1550_1.png -> Decoded Text: francisco
+File: img1550_2.png -> Decoded Text: GAN
+File: img1550_3.png -> Decoded Text: management to the
+File: img1550_4.png -> Decoded Text: 2 1
+File: img1550_5.png -> Decoded Text: spoke
+File: img1550_6.png -> Decoded Text: presentation
+File: img1550_7.png -> Decoded Text: alternative
+File: img1551_0.png -> Decoded Text: 2
+File: img1551_1.png -> Decoded Text: to
+File: img1551_2.png -> Decoded Text: 0
+File: img1552_0.png -> Decoded Text: gutters
+File: img1552_1.png -> Decoded Text: soffs
+File: img1552_10.png -> Decoded Text: windows .
+File: img1552_12.png -> Decoded Text: Conservationaries
+File: img1552_13.png -> Decoded Text: 0/1752
+File: img1552_14.png -> Decoded Text: negant 7775s
+File: img1552_15.png -> Decoded Text: management consensus
+File: img1552_2.png -> Decoded Text: doors .
+File: img1552_3.png -> Decoded Text: porches ,
+File: img1552_4.png -> Decoded Text: fascia ,
+File: img1552_5.png -> Decoded Text: conservatories
+File: img1552_6.png -> Decoded Text: windows .
+File: img1552_7.png -> Decoded Text: upvc
+File: img1552_8.png -> Decoded Text: telephonies .
+File: img1552_9.png -> Decoded Text: ridgwell
+File: img1553_0.png -> Decoded Text: 4 Events .
+File: img1553_1.png -> Decoded Text: skitsky
+File: img1553_10.png -> Decoded Text: Pennsylvania
+File: img1553_11.png -> Decoded Text: Jalain
+File: img1553_12.png -> Decoded Text: 2 2
+File: img1553_13.png -> Decoded Text: to ?
+File: img1553_14.png -> Decoded Text: 5 .
+File: img1553_2.png -> Decoded Text: to ensure
+File: img1553_4.png -> Decoded Text: 10th
+File: img1553_5.png -> Decoded Text: 1st
+File: img1553_6.png -> Decoded Text: yellowly
+File: img1553_7.png -> Decoded Text: KARA OKs .
+File: img1553_8.png -> Decoded Text: room .
+File: img1553_9.png -> Decoded Text: TRG
+File: img1554_0.png -> Decoded Text: associate leaders
+File: img1554_1.png -> Decoded Text: 0
+File: img1554_2.png -> Decoded Text: employed
+File: img1555_0.png -> Decoded Text: to other
+File: img1555_1.png -> Decoded Text: Print export
+File: img191_0.png -> Decoded Text: boys .
+File: img191_1.png -> Decoded Text: 0th.
+File: img191_2.png -> Decoded Text: successiveness
+File: img191_3.png -> Decoded Text: teen
+File: img191_5.png -> Decoded Text: stop to
+File: img191_6.png -> Decoded Text: 2h
+File: img192_0.png -> Decoded Text: spranna
+File: img192_1.png -> Decoded Text: cait
+File: img192_2.png -> Decoded Text: 0
+File: img192_3.png -> Decoded Text: 0
+File: img193_0.png -> Decoded Text: IRMNG 10045977
+File: img193_1.png -> Decoded Text: FRIDITION REPORT
+File: img194_1.png -> Decoded Text: trey
+File: img194_10.png -> Decoded Text: 7
+File: img194_11.png -> Decoded Text: 1690
+File: img194_12.png -> Decoded Text: 100
+File: img194_13.png -> Decoded Text: 890
+File: img194_14.png -> Decoded Text: imposed
+File: img194_15.png -> Decoded Text: vestition
+File: img194_16.png -> Decoded Text: troybird
+File: img194_17.png -> Decoded Text: Print export
+File: img194_18.png -> Decoded Text: physics
+File: img194_19.png -> Decoded Text: curry
+File: img194_2.png -> Decoded Text: jouses .
+File: img194_20.png -> Decoded Text: to
+File: img194_21.png -> Decoded Text: wigs
+File: img194_22.png -> Decoded Text: corrects
+File: img194_27.png -> Decoded Text: sudney
+File: img194_3.png -> Decoded Text: spokenly
+File: img194_4.png -> Decoded Text: spoken
+File: img194_5.png -> Decoded Text: priests
+File: img194_6.png -> Decoded Text: priggs .
+File: img194_7.png -> Decoded Text: spackaway
+File: img194_8.png -> Decoded Text: spoken
+File: img195_0.png -> Decoded Text: lip
+File: img195_1.png -> Decoded Text: concept
+File: img195_2.png -> Decoded Text: 0 1
+File: img195_3.png -> Decoded Text: little .
+File: img195_4.png -> Decoded Text: eldrum .
+File: img195_5.png -> Decoded Text: 2nd
+File: img195_6.png -> Decoded Text: unique
+File: img195_7.png -> Decoded Text: as
+File: img195_8.png -> Decoded Text: yourly
+File: img195_9.png -> Decoded Text: fit
+File: img196_0.png -> Decoded Text: sut .
+File: img196_1.png -> Decoded Text: 0 1
+File: img196_2.png -> Decoded Text: " Mohammadriati
+File: img196_3.png -> Decoded Text: speckments .
+File: img197_0.png -> Decoded Text: effender
+File: img197_1.png -> Decoded Text: #ability
+File: img198_0.png -> Decoded Text: s
+File: img198_1.png -> Decoded Text: two
+File: img198_2.png -> Decoded Text: spily
+File: img198_3.png -> Decoded Text: 1 .
+File: img199_0.png -> Decoded Text: esn
+File: img199_1.png -> Decoded Text: 100 000
+File: img199_2.png -> Decoded Text: Following the American Revolution
+File: img199_3.png -> Decoded Text: who are
+File: img199_4.png -> Decoded Text: 2 1
+File: img199_5.png -> Decoded Text: 0 2
+File: img199_6.png -> Decoded Text: South of
+File: img199_7.png -> Decoded Text: appropriate
+File: img199_8.png -> Decoded Text: open # hours
+File: img1_0.png -> Decoded Text: East end
+File: img200_0.png -> Decoded Text: sp
+File: img200_1.png -> Decoded Text: india
+File: img200_2.png -> Decoded Text: 0 1
+File: img200_3.png -> Decoded Text: Tutist
+File: img200_4.png -> Decoded Text: 1st
+File: img291_0.png -> Decoded Text: G.P.P.P.P.P.P.P.P.P.
+File: img291_1.png -> Decoded Text: a
+File: img291_2.png -> Decoded Text: Set
+File: img291_3.png -> Decoded Text: 1st sp
+File: img292_0.png -> Decoded Text: 0 000052
+File: img292_1.png -> Decoded Text: to
+File: img292_2.png -> Decoded Text: cajrinsky ,
+File: img292_3.png -> Decoded Text: Carnaby ,
+File: img292_4.png -> Decoded Text: S RES
+File: img293_0.png -> Decoded Text: tea
+File: img293_1.png -> Decoded Text: house
+File: img293_2.png -> Decoded Text: wine .
+File: img293_3.png -> Decoded Text: tasting
+File: img293_4.png -> Decoded Text: Gastronon
+File: img294_0.png -> Decoded Text: over outstanding
+File: img295_0.png -> Decoded Text: 1st
+File: img295_1.png -> Decoded Text: " 0
+File: img295_2.png -> Decoded Text: safe
+File: img296_0.png -> Decoded Text: after
+File: img296_1.png -> Decoded Text: 0 1
+File: img296_2.png -> Decoded Text: sud
+File: img297_0.png -> Decoded Text: 0 1
+File: img297_1.png -> Decoded Text: MRG
+File: img297_2.png -> Decoded Text: " Brown
+File: img298_0.png -> Decoded Text: a
+File: img298_1.png -> Decoded Text: 0 0
+File: img298_2.png -> Decoded Text: associate
+File: img298_3.png -> Decoded Text: sign
+File: img299_0.png -> Decoded Text: 4,00053
+File: img299_1.png -> Decoded Text: REBOLD B.00052
+File: img2_0.png -> Decoded Text: naughty
+File: img2_1.png -> Decoded Text: nurs
+File: img2_2.png -> Decoded Text: nurys
+File: img2_3.png -> Decoded Text: 0 1
+File: img2_4.png -> Decoded Text: est .
+File: img2_5.png -> Decoded Text: 1995
+File: img2_6.png -> Decoded Text: 0 9
+File: img300_0.png -> Decoded Text: CONSANOUS
+File: img300_1.png -> Decoded Text: important rights
+File: img391_0.png -> Decoded Text: spa
+File: img391_1.png -> Decoded Text: gaunt
+File: img391_2.png -> Decoded Text: 2 1
+File: img392_0.png -> Decoded Text: gate .
+File: img392_1.png -> Decoded Text: strong
+File: img392_2.png -> Decoded Text: IPMINATE JTUI
+File: img392_3.png -> Decoded Text: surveyement to Ireland
+File: img392_5.png -> Decoded Text: pastition
+File: img392_6.png -> Decoded Text: 0 0
+File: img393_0.png -> Decoded Text: gate
+File: img393_1.png -> Decoded Text: 2
+File: img393_10.png -> Decoded Text: brgy .
+File: img393_11.png -> Decoded Text: vastrian .
+File: img393_12.png -> Decoded Text: taggaytay .
+File: img393_13.png -> Decoded Text: city .
+File: img393_2.png -> Decoded Text: 0
+File: img393_3.png -> Decoded Text: world's
+File: img393_4.png -> Decoded Text: largest .
+File: img393_5.png -> Decoded Text: jigsaw
+File: img393_6.png -> Decoded Text: puzzle
+File: img393_7.png -> Decoded Text: collection .
+File: img393_8.png -> Decoded Text: sphingers and
+File: img393_9.png -> Decoded Text: mainsion .
+File: img394_0.png -> Decoded Text: P. XX
+File: img394_1.png -> Decoded Text: goil .
+File: img394_2.png -> Decoded Text: exails .
+File: img394_3.png -> Decoded Text: citizen .
+File: img395_0.png -> Decoded Text: spots
+File: img395_1.png -> Decoded Text: 0 1
+File: img395_10.png -> Decoded Text: fin .
+File: img395_11.png -> Decoded Text: snails
+File: img395_12.png -> Decoded Text: alley .
+File: img395_3.png -> Decoded Text: tea
+File: img395_4.png -> Decoded Text: cafe .
+File: img395_5.png -> Decoded Text: 10
+File: img395_6.png -> Decoded Text: imeters
+File: img395_7.png -> Decoded Text: lahead
+File: img395_8.png -> Decoded Text: turn .
+File: img395_9.png -> Decoded Text: right
+File: img396_0.png -> Decoded Text: 0 0
+File: img396_1.png -> Decoded Text: where also
+File: img396_2.png -> Decoded Text: pojo
+File: img397_0.png -> Decoded Text: 2 1
+File: img397_1.png -> Decoded Text: 2 . So
+File: img397_2.png -> Decoded Text: 4
+File: img397_3.png -> Decoded Text: 0 2
+File: img398_0.png -> Decoded Text: salad
+File: img398_1.png -> Decoded Text: sandwiches .
+File: img398_10.png -> Decoded Text: annid .
+File: img398_11.png -> Decoded Text: 0 9
+File: img398_2.png -> Decoded Text: a term
+File: img398_3.png -> Decoded Text: nwalsackett .
+File: img398_4.png -> Decoded Text: place .
+File: img398_6.png -> Decoded Text: carp
+File: img398_7.png -> Decoded Text: toffee .
+File: img398_8.png -> Decoded Text: wine .
+File: img398_9.png -> Decoded Text: beer .
+File: img399_0.png -> Decoded Text: expectation
+File: img3_0.png -> Decoded Text: kell of
+File: img3_1.png -> Decoded Text: treaties .
+File: img3_2.png -> Decoded Text: nubs
+File: img3_3.png -> Decoded Text: Print export
+File: img400_0.png -> Decoded Text: sianna
+File: img400_1.png -> Decoded Text: monts .
+File: img400_2.png -> Decoded Text: & A.C.H.T.
+File: img400_3.png -> Decoded Text: 4 References
+File: img400_4.png -> Decoded Text: sport
+File: img400_5.png -> Decoded Text: fishing
+File: img400_6.png -> Decoded Text: something
+File: img400_7.png -> Decoded Text: oajos .
+File: img491_0.png -> Decoded Text: 1st century
+File: img491_1.png -> Decoded Text: treatters .
+File: img491_2.png -> Decoded Text: reoccupially influenced
+File: img492_0.png -> Decoded Text: tirried coloured
+File: img493_0.png -> Decoded Text: " THE LOUDERS WENNED
+File: img493_1.png -> Decoded Text: down #
+File: img493_2.png -> Decoded Text: Mississippi
+File: img494_0.png -> Decoded Text: 1stains .
+File: img494_1.png -> Decoded Text: now .
+File: img495_0.png -> Decoded Text: Research Franklin would also
+File: img495_1.png -> Decoded Text: Waterson
+File: img495_2.png -> Decoded Text: qualities
+File: img495_3.png -> Decoded Text: 1.8
+File: img495_4.png -> Decoded Text: Succeeded by
+File: img495_5.png -> Decoded Text: garveston ID
+File: img495_6.png -> Decoded Text: UBTA WOODSESDA WOODY
+File: img495_7.png -> Decoded Text: LOCAL REPORT
+File: img496_0.png -> Decoded Text: expelled
+File: img496_1.png -> Decoded Text: BALZALAJY
+File: img497_0.png -> Decoded Text: MUDGETERS
+File: img497_1.png -> Decoded Text: 1000 Jensen
+File: img497_10.png -> Decoded Text: eous .
+File: img497_11.png -> Decoded Text: murderestester .
+File: img497_12.png -> Decoded Text: to operate
+File: img497_14.png -> Decoded Text: pleasant information
+File: img497_15.png -> Decoded Text: berry
+File: img497_16.png -> Decoded Text: ttrain .
+File: img497_17.png -> Decoded Text: nao
+File: img497_19.png -> Decoded Text: ppbin-
+File: img497_20.png -> Decoded Text: landi
+File: img497_21.png -> Decoded Text: aazi
+File: img497_3.png -> Decoded Text: to establish the Government of the British Parliament of the British Parliament of the British Parliament of the Parliament of
+File: img497_4.png -> Decoded Text: bbierbury
+File: img497_5.png -> Decoded Text: 7tho
+File: img497_6.png -> Decoded Text: initiability
+File: img497_7.png -> Decoded Text: lucky
+File: img497_8.png -> Decoded Text: 26.
+File: img497_9.png -> Decoded Text: dots .
+File: img498_1.png -> Decoded Text: 0
+File: img498_2.png -> Decoded Text: xapil
+File: img498_3.png -> Decoded Text: KISMET 7
+File: img498_4.png -> Decoded Text: 1st century
+File: img498_5.png -> Decoded Text: 10
+File: img499_0.png -> Decoded Text: sach
+File: img499_1.png -> Decoded Text: KERIN O'Sullivan
+File: img499_2.png -> Decoded Text: borek .
+File: img499_3.png -> Decoded Text: backlava
+File: img499_5.png -> Decoded Text: salonlari
+File: img499_6.png -> Decoded Text: seucard .
+File: img499_7.png -> Decoded Text: 80
+File: img499_8.png -> Decoded Text: 28
+File: img499_9.png -> Decoded Text: 7'
+File: img4_0.png -> Decoded Text: 3500
+File: img4_10.png -> Decoded Text: 0 0
+File: img4_11.png -> Decoded Text: midnight
+File: img4_2.png -> Decoded Text: B.4
+File: img4_3.png -> Decoded Text: SD PR A
+File: img4_4.png -> Decoded Text: opposition
+File: img4_5.png -> Decoded Text: 1270,000
+File: img4_6.png -> Decoded Text: torties .
+File: img4_7.png -> Decoded Text: video
+File: img4_8.png -> Decoded Text: widespread
+File: img4_9.png -> Decoded Text: 1953 54
+File: img500_0.png -> Decoded Text: examinuous
+File: img500_1.png -> Decoded Text: #
+File: img500_2.png -> Decoded Text: KIDI MYP
+File: img500_3.png -> Decoded Text: TCO.
+File: img500_4.png -> Decoded Text: mistresses .
+File: img500_5.png -> Decoded Text: wrote .
+File: img500_6.png -> Decoded Text: jebannifactory
+File: img500_7.png -> Decoded Text: processions
+File: img500_8.png -> Decoded Text: #
+File: img531_0.png -> Decoded Text: sall's
+File: img531_1.png -> Decoded Text: collo
+File: img531_10.png -> Decoded Text: drop
+File: img531_11.png -> Decoded Text: rebiscenship
+File: img531_12.png -> Decoded Text: unknown .
+File: img531_13.png -> Decoded Text: 0
+File: img531_2.png -> Decoded Text: spy
+File: img531_3.png -> Decoded Text: peronquiry
+File: img531_4.png -> Decoded Text: retrallism
+File: img531_5.png -> Decoded Text: world
+File: img531_6.png -> Decoded Text: famous
+File: img531_7.png -> Decoded Text: hoti
+File: img531_8.png -> Decoded Text: 100s
+File: img531_9.png -> Decoded Text: 2
+File: img532_0.png -> Decoded Text: the
+File: img532_1.png -> Decoded Text: Famous
+File: img532_2.png -> Decoded Text: shift field .
+File: img532_3.png -> Decoded Text: pie
+File: img532_4.png -> Decoded Text: is to
+File: img532_5.png -> Decoded Text: sheffield
+File: img533_0.png -> Decoded Text: 5 Events
+File: img533_1.png -> Decoded Text: penang
+File: img533_2.png -> Decoded Text: collo
+File: img533_3.png -> Decoded Text: drinky
+File: img533_4.png -> Decoded Text: ais
+File: img533_5.png -> Decoded Text: tingkamp
+File: img533_6.png -> Decoded Text: mundon
+File: img533_7.png -> Decoded Text: sheppett
+File: img533_8.png -> Decoded Text: revity ,
+File: img534_0.png -> Decoded Text: IDENT WOODED
+File: img534_1.png -> Decoded Text: 0 1
+File: img534_2.png -> Decoded Text: Pennsylvania
+File: img534_3.png -> Decoded Text: subitaway
+File: img534_4.png -> Decoded Text: ciry
+File: img534_5.png -> Decoded Text: pool
+File: img535_0.png -> Decoded Text: spy
+File: img535_1.png -> Decoded Text: gadside
+File: img535_2.png -> Decoded Text: 5 February
+File: img535_3.png -> Decoded Text: 2
+File: img535_4.png -> Decoded Text: 0
+File: img535_5.png -> Decoded Text: perpetment
+File: img535_6.png -> Decoded Text: Maurova Vista
+File: img535_7.png -> Decoded Text: retoinsued
+File: img535_8.png -> Decoded Text: a
+File: img536_0.png -> Decoded Text: abet
+File: img536_1.png -> Decoded Text: macht .
+File: img536_2.png -> Decoded Text: avery
+File: img536_3.png -> Decoded Text: 1
+File: img537_0.png -> Decoded Text: a
+File: img537_1.png -> Decoded Text: street
+File: img537_2.png -> Decoded Text: will be
+File: img537_3.png -> Decoded Text: nellson .
+File: img537_4.png -> Decoded Text: Boyd
+File: img537_5.png -> Decoded Text: 30 0
+File: img538_0.png -> Decoded Text: dambwood ,
+File: img538_1.png -> Decoded Text: town-thonies .
+File: img539_0.png -> Decoded Text: NAVANCID BID
+File: img539_1.png -> Decoded Text: 2.
+File: img539_2.png -> Decoded Text: nuggets
+File: img539_3.png -> Decoded Text: 0.
+File: img539_4.png -> Decoded Text: scene
+File: img539_5.png -> Decoded Text: observatory
+File: img539_6.png -> Decoded Text: 100
+File: img540_0.png -> Decoded Text: ineat
+File: img540_1.png -> Decoded Text: wits .
+File: img540_10.png -> Decoded Text: high
+File: img540_11.png -> Decoded Text: fibrey
+File: img540_12.png -> Decoded Text: multigrain .
+File: img540_13.png -> Decoded Text: flakes .
+File: img540_14.png -> Decoded Text: mehrkorn .
+File: img540_15.png -> Decoded Text: flakes ,
+File: img540_16.png -> Decoded Text: 0
+File: img540_17.png -> Decoded Text: 0 1
+File: img540_18.png -> Decoded Text: w.
+File: img540_19.png -> Decoded Text: retective
+File: img540_2.png -> Decoded Text: egrain
+File: img540_20.png -> Decoded Text: 25
+File: img540_21.png -> Decoded Text: 90'
+File: img540_22.png -> Decoded Text: with
+File: img540_23.png -> Decoded Text: well
+File: img540_24.png -> Decoded Text: in
+File: img540_25.png -> Decoded Text: syers .
+File: img540_26.png -> Decoded Text: go
+File: img540_27.png -> Decoded Text: a member of the
+File: img540_28.png -> Decoded Text: 0 1
+File: img540_29.png -> Decoded Text: 0 0
+File: img540_3.png -> Decoded Text: 0 0
+File: img540_30.png -> Decoded Text: post-
+File: img540_31.png -> Decoded Text: gregat .
+File: img540_32.png -> Decoded Text: grainists .
+File: img540_33.png -> Decoded Text: will
+File: img540_34.png -> Decoded Text: spokenly
+File: img540_35.png -> Decoded Text: tettersign
+File: img540_36.png -> Decoded Text: revisil
+File: img540_38.png -> Decoded Text: South Dakota
+File: img540_39.png -> Decoded Text: to
+File: img540_4.png -> Decoded Text: vitabella .
+File: img540_40.png -> Decoded Text: Print export
+File: img540_41.png -> Decoded Text: denaultment
+File: img540_46.png -> Decoded Text: programming
+File: img540_47.png -> Decoded Text: izz
+File: img540_48.png -> Decoded Text: song
+File: img540_49.png -> Decoded Text: 1st
+File: img540_5.png -> Decoded Text: economic
+File: img540_50.png -> Decoded Text: 99
+File: img540_6.png -> Decoded Text: system
+File: img540_7.png -> Decoded Text: 1999
+File: img540_8.png -> Decoded Text: 0.
+File: img540_9.png -> Decoded Text: sluteness .
+File: img541_0.png -> Decoded Text: effatuation
+File: img541_1.png -> Decoded Text: cafe
+File: img541_2.png -> Decoded Text: open
+File: img541_3.png -> Decoded Text: 24-hours
+File: img542_0.png -> Decoded Text: TEADYARD
+File: img542_1.png -> Decoded Text: Last
+File: img542_2.png -> Decoded Text: 0 2
+File: img542_3.png -> Decoded Text: ABAA announcement
+File: img542_4.png -> Decoded Text: park
+File: img542_5.png -> Decoded Text: WHEDSTON
+File: img542_6.png -> Decoded Text: wired and
+File: img543_0.png -> Decoded Text: sUDD
+File: img543_1.png -> Decoded Text: 100s
+File: img543_2.png -> Decoded Text: REAP
+File: img543_3.png -> Decoded Text: hospitality
+File: img543_4.png -> Decoded Text: services .
+File: img544_0.png -> Decoded Text: LEDB OK
+File: img544_1.png -> Decoded Text: LLED
+File: img544_2.png -> Decoded Text: B.T.B.
+File: img544_3.png -> Decoded Text: 2209
+File: img545_0.png -> Decoded Text: spots
+File: img545_1.png -> Decoded Text: to
+File: img545_2.png -> Decoded Text: tartily
+File: img546_10.png -> Decoded Text: bagel
+File: img546_11.png -> Decoded Text: bagel
+File: img546_12.png -> Decoded Text: new York style labels .
+File: img546_13.png -> Decoded Text: top
+File: img546_14.png -> Decoded Text: 2
+File: img546_15.png -> Decoded Text: 2
+File: img546_16.png -> Decoded Text: 2
+File: img546_17.png -> Decoded Text: l
+File: img546_3.png -> Decoded Text: 1315
+File: img546_5.png -> Decoded Text: niw .
+File: img546_7.png -> Decoded Text: povite
+File: img546_8.png -> Decoded Text: jim .
+File: img546_9.png -> Decoded Text: 0 2
+File: img547_1.png -> Decoded Text: 10
+File: img547_10.png -> Decoded Text: TV status .
+File: img547_11.png -> Decoded Text: 0yo
+File: img547_12.png -> Decoded Text: top
+File: img547_13.png -> Decoded Text: suburbments
+File: img547_14.png -> Decoded Text: to
+File: img547_16.png -> Decoded Text: 0
+File: img547_17.png -> Decoded Text: sing
+File: img547_18.png -> Decoded Text: sited
+File: img547_20.png -> Decoded Text: rediniviviviature .
+File: img547_21.png -> Decoded Text: bags
+File: img547_22.png -> Decoded Text: spoken
+File: img547_3.png -> Decoded Text: women .
+File: img547_4.png -> Decoded Text: women .
+File: img547_5.png -> Decoded Text: popin'
+File: img547_6.png -> Decoded Text: 2
+File: img547_7.png -> Decoded Text: References
+File: img547_8.png -> Decoded Text: yellowly
+File: img548_0.png -> Decoded Text: country
+File: img548_1.png -> Decoded Text: # the
+File: img548_2.png -> Decoded Text: Leslieens Weber
+File: img548_3.png -> Decoded Text: position
+File: img548_4.png -> Decoded Text: poultry
+File: img549_0.png -> Decoded Text: east
+File: img549_1.png -> Decoded Text: vintage
+File: img549_10.png -> Decoded Text: tetiary and other
+File: img549_11.png -> Decoded Text: out
+File: img549_12.png -> Decoded Text: wised
+File: img549_13.png -> Decoded Text: shoes .
+File: img549_2.png -> Decoded Text: shoe
+File: img549_3.png -> Decoded Text: repain
+File: img549_4.png -> Decoded Text: just .
+File: img549_5.png -> Decoded Text: marks
+File: img549_6.png -> Decoded Text: custotized
+File: img549_7.png -> Decoded Text: sneakers
+File: img549_8.png -> Decoded Text: 0
+File: img549_9.png -> Decoded Text: saul
+File: img550_1.png -> Decoded Text: Ohou
+File: img550_2.png -> Decoded Text: 0
+File: img550_3.png -> Decoded Text: 0 1
+File: img551_0.png -> Decoded Text: 0,000
+File: img551_1.png -> Decoded Text: e.T.S.D.AN
+File: img551_2.png -> Decoded Text: LYSVACS
+File: img552_0.png -> Decoded Text: strictories
+File: img552_1.png -> Decoded Text: idella
+File: img552_2.png -> Decoded Text: tactified
+File: img552_3.png -> Decoded Text: existorance
+File: img552_4.png -> Decoded Text: 10
+File: img552_5.png -> Decoded Text: precedation .
+File: img553_0.png -> Decoded Text: 1 1
+File: img553_1.png -> Decoded Text: 0 0000
+File: img553_2.png -> Decoded Text: REDAILY
+File: img553_3.png -> Decoded Text: 0 2
+File: img553_4.png -> Decoded Text: kami
+File: img553_5.png -> Decoded Text: memimpin .
+File: img553_6.png -> Decoded Text: universiti
+File: img553_7.png -> Decoded Text: saints .
+File: img553_8.png -> Decoded Text: Malaysia
+File: img554_0.png -> Decoded Text: 6 1
+File: img554_1.png -> Decoded Text: 0 1 .
+File: img554_2.png -> Decoded Text: 4th leg
+File: img554_3.png -> Decoded Text: " It would
+File: img554_4.png -> Decoded Text: COMBERS
+File: img555_0.png -> Decoded Text: spilly
+File: img555_1.png -> Decoded Text: S D
+File: img555_2.png -> Decoded Text: RTI 97
+File: img555_3.png -> Decoded Text: 0 1
+File: img556_0.png -> Decoded Text: pharmonia
+File: img556_1.png -> Decoded Text: express
+File: img556_2.png -> Decoded Text: 2 5
+File: img556_3.png -> Decoded Text: sporter .
+File: img556_4.png -> Decoded Text: 2
+File: img557_0.png -> Decoded Text: bezza
+File: img557_1.png -> Decoded Text: by
+File: img557_11.png -> Decoded Text: preff
+File: img557_2.png -> Decoded Text: Paul
+File: img557_3.png -> Decoded Text: gerrard
+File: img557_4.png -> Decoded Text: Curtis
+File: img557_5.png -> Decoded Text: BAPS
+File: img557_6.png -> Decoded Text: 2CVS
+File: img557_7.png -> Decoded Text: BOLD 579
+File: img557_8.png -> Decoded Text: levo
+File: img557_9.png -> Decoded Text: appropriate
+File: img558_1.png -> Decoded Text: 0 1
+File: img558_10.png -> Decoded Text: fire .
+File: img558_11.png -> Decoded Text: s
+File: img558_13.png -> Decoded Text: 3 1
+File: img558_14.png -> Decoded Text: 52 5
+File: img558_15.png -> Decoded Text: let
+File: img558_16.png -> Decoded Text: 1st
+File: img558_17.png -> Decoded Text: country .
+File: img558_18.png -> Decoded Text: 0th century
+File: img558_19.png -> Decoded Text: 0
+File: img558_2.png -> Decoded Text: if
+File: img558_3.png -> Decoded Text: alarm
+File: img558_4.png -> Decoded Text: 0 1 .
+File: img558_5.png -> Decoded Text: 2 3
+File: img558_6.png -> Decoded Text: even .
+File: img558_7.png -> Decoded Text: bery
+File: img558_8.png -> Decoded Text: a b
+File: img558_9.png -> Decoded Text: call
+File: img559_0.png -> Decoded Text: 0
+File: img559_1.png -> Decoded Text: spots
+File: img559_2.png -> Decoded Text: 0 1
+File: img559_3.png -> Decoded Text: 2 2
+File: img559_5.png -> Decoded Text: theology
+File: img559_6.png -> Decoded Text: sacks .
+File: img560_0.png -> Decoded Text: 2
+File: img560_1.png -> Decoded Text: 2021
+File: img560_2.png -> Decoded Text: riends
+File: img560_3.png -> Decoded Text: sistercy
+File: img560_4.png -> Decoded Text: 0 2
+File: img560_5.png -> Decoded Text: sp
+File: img560_6.png -> Decoded Text: 3rd or
+File: img560_7.png -> Decoded Text: 3rd
+File: img560_8.png -> Decoded Text: 2 2
+File: img561_0.png -> Decoded Text: kedail .
+File: img561_1.png -> Decoded Text: makanan
+File: img561_2.png -> Decoded Text: minimum
+File: img561_3.png -> Decoded Text: storia
+File: img561_4.png -> Decoded Text: cafe
+File: img561_7.png -> Decoded Text: 12011
+File: img561_8.png -> Decoded Text: 2010
+File: img562_0.png -> Decoded Text: GT.
+File: img562_1.png -> Decoded Text: 0 1
+File: img563_0.png -> Decoded Text: sabeto
+File: img563_1.png -> Decoded Text: would
+File: img563_2.png -> Decoded Text: pool .
+File: img563_3.png -> Decoded Text: hot .
+File: img563_4.png -> Decoded Text: spring
+File: img564_0.png -> Decoded Text: 2 1
+File: img564_1.png -> Decoded Text: road
+File: img564_11.png -> Decoded Text: successes
+File: img564_2.png -> Decoded Text: 2 2
+File: img564_3.png -> Decoded Text: Teacher
+File: img564_4.png -> Decoded Text: Henduil
+File: img564_6.png -> Decoded Text: RM1200
+File: img564_7.png -> Decoded Text: bungkus .
+File: img564_8.png -> Decoded Text: RM2-30
+File: img564_9.png -> Decoded Text: RM230
+File: img565_0.png -> Decoded Text: went to the
+File: img565_1.png -> Decoded Text: 0
+File: img565_2.png -> Decoded Text: 2
+File: img565_4.png -> Decoded Text: 22
+File: img566_0.png -> Decoded Text: 2 Sr
+File: img566_1.png -> Decoded Text: 17km.
+File: img567_0.png -> Decoded Text: 0 0000
+File: img567_1.png -> Decoded Text: 0 0000
+File: img567_2.png -> Decoded Text: systems to
+File: img567_3.png -> Decoded Text: saron .
+File: img567_4.png -> Decoded Text: comebrokes .
+File: img567_5.png -> Decoded Text: down
+File: img568_0.png -> Decoded Text: exign
+File: img568_1.png -> Decoded Text: no
+File: img568_2.png -> Decoded Text: dehuvad
+File: img569_0.png -> Decoded Text: s t
+File: img569_1.png -> Decoded Text: 0 2
+File: img569_2.png -> Decoded Text: about the
+File: img569_3.png -> Decoded Text: sittop
+File: img569_4.png -> Decoded Text: a living
+File: img569_5.png -> Decoded Text: 0 1
+File: img570_0.png -> Decoded Text: disodium
+File: img570_1.png -> Decoded Text: HAVE BUILD
+File: img570_2.png -> Decoded Text: point
+File: img570_3.png -> Decoded Text: oddoits
+File: img570_4.png -> Decoded Text: Texas
+File: img570_5.png -> Decoded Text: off
+File: img571_0.png -> Decoded Text: spots
+File: img571_1.png -> Decoded Text: extensive
+File: img571_2.png -> Decoded Text: si
+File: img571_3.png -> Decoded Text: watercoming in its own
+File: img572_0.png -> Decoded Text: a b
+File: img572_1.png -> Decoded Text: fritz
+File: img572_10.png -> Decoded Text: 723-083
+File: img572_11.png -> Decoded Text: fax .
+File: img572_12.png -> Decoded Text: www. wgfritz construction . com
+File: img572_13.png -> Decoded Text: ICA Contractors License H.B.716106 and H.B.906430
+File: img572_2.png -> Decoded Text: Construction .
+File: img572_3.png -> Decoded Text: 408,
+File: img572_4.png -> Decoded Text: 723-32
+File: img572_5.png -> Decoded Text: office .
+File: img572_6.png -> Decoded Text: 408,
+File: img572_7.png -> Decoded Text: 591--
+File: img572_8.png -> Decoded Text: cell
+File: img572_9.png -> Decoded Text: 408
+File: img573_0.png -> Decoded Text: 0
+File: img573_1.png -> Decoded Text: 2 .
+File: img573_10.png -> Decoded Text: unnecessary the Spanish
+File: img573_11.png -> Decoded Text: method to raise #
+File: img573_12.png -> Decoded Text: www jumborecords , co uk
+File: img573_2.png -> Decoded Text: 0 1
+File: img573_3.png -> Decoded Text: 0 0
+File: img573_4.png -> Decoded Text: 5 0
+File: img573_5.png -> Decoded Text: 0
+File: img573_6.png -> Decoded Text: 0
+File: img573_7.png -> Decoded Text: 1970
+File: img573_8.png -> Decoded Text: rebocords .
+File: img573_9.png -> Decoded Text: signibilities continue .
+File: img574_1.png -> Decoded Text: to
+File: img574_2.png -> Decoded Text: 2 Acting
+File: img574_3.png -> Decoded Text: 0 1
+File: img574_4.png -> Decoded Text: going
+File: img574_5.png -> Decoded Text: koits
+File: img575_0.png -> Decoded Text: ISVUS ED.00052000
+File: img575_1.png -> Decoded Text: 511
+File: img576_0.png -> Decoded Text: 0 days
+File: img576_1.png -> Decoded Text: 0
+File: img576_2.png -> Decoded Text: predinquishment
+File: img576_3.png -> Decoded Text: season
+File: img576_4.png -> Decoded Text: elake
+File: img576_5.png -> Decoded Text: combosing
+File: img576_6.png -> Decoded Text: bonceded
+File: img576_7.png -> Decoded Text: sibits
+File: img576_8.png -> Decoded Text: czawersky
+File: img577_0.png -> Decoded Text: 7X2
+File: img577_1.png -> Decoded Text: wataway
+File: img578_0.png -> Decoded Text: 2021 22
+File: img578_1.png -> Decoded Text: 2nd sp
+File: img578_2.png -> Decoded Text: family
+File: img578_3.png -> Decoded Text: restaurant
+File: img578_4.png -> Decoded Text: 0
+File: img579_0.png -> Decoded Text: captivities
+File: img579_1.png -> Decoded Text: suspension
+File: img579_10.png -> Decoded Text: te
+File: img579_11.png -> Decoded Text: sp
+File: img579_12.png -> Decoded Text: husbandists likely
+File: img579_13.png -> Decoded Text: 0
+File: img579_14.png -> Decoded Text: sits
+File: img579_15.png -> Decoded Text: common security and entertainment development
+File: img579_16.png -> Decoded Text: the majority
+File: img579_17.png -> Decoded Text: put
+File: img579_18.png -> Decoded Text: 2
+File: img579_2.png -> Decoded Text: bridget
+File: img579_3.png -> Decoded Text: type
+File: img579_4.png -> Decoded Text: first gifts .
+File: img579_5.png -> Decoded Text: 0
+File: img579_6.png -> Decoded Text: exactly
+File: img579_7.png -> Decoded Text: with
+File: img579_8.png -> Decoded Text: 0
+File: img579_9.png -> Decoded Text: in consideration
+File: img580_0.png -> Decoded Text: 0 0000
+File: img580_1.png -> Decoded Text: 103st
+File: img580_2.png -> Decoded Text: 0 1
+File: img581_0.png -> Decoded Text: s
+File: img581_1.png -> Decoded Text: 0
+File: img581_2.png -> Decoded Text: major
+File: img581_3.png -> Decoded Text: 1800s.
+File: img581_4.png -> Decoded Text: 0 1
+File: img581_5.png -> Decoded Text: ple
+File: img581_6.png -> Decoded Text: before
+File: img581_7.png -> Decoded Text: you
+File: img582_0.png -> Decoded Text: adult transport
+File: img582_1.png -> Decoded Text: after
+File: img582_3.png -> Decoded Text: suggestions in
+File: img582_4.png -> Decoded Text: passed
+File: img582_5.png -> Decoded Text: 1
+File: img582_6.png -> Decoded Text: missions .
+File: img582_7.png -> Decoded Text: sp
+File: img582_8.png -> Decoded Text: tempted
+File: img583_0.png -> Decoded Text: 7 Teg
+File: img583_1.png -> Decoded Text: 2.
+File: img583_2.png -> Decoded Text: IL 28
+File: img584_0.png -> Decoded Text: 7
+File: img584_1.png -> Decoded Text: oboeing
+File: img584_2.png -> Decoded Text: 0 1
+File: img584_3.png -> Decoded Text: 2
+File: img584_4.png -> Decoded Text: 1960
+File: img584_5.png -> Decoded Text: paranna
+File: img584_6.png -> Decoded Text: crispy .
+File: img585_0.png -> Decoded Text: IL LINIA .
+File: img585_1.png -> Decoded Text: PARK
+File: img586_0.png -> Decoded Text: DNA ( Laboratories
+File: img586_1.png -> Decoded Text: Scottish
+File: img586_2.png -> Decoded Text: to pub .
+File: img587_0.png -> Decoded Text: green .
+File: img587_1.png -> Decoded Text: submissions
+File: img587_2.png -> Decoded Text: Not logged inTalkContributionsCreate accountLog in
+File: img587_3.png -> Decoded Text: Fort Worth
+File: img587_4.png -> Decoded Text: opened
+File: img587_5.png -> Decoded Text: # Miss
+File: img587_6.png -> Decoded Text: theatre
+File: img587_7.png -> Decoded Text: filieves
+File: img587_8.png -> Decoded Text: cementants and resources
+File: img588_0.png -> Decoded Text: a busy
+File: img588_1.png -> Decoded Text: pettitt
+File: img588_2.png -> Decoded Text: vteBiscounties .
+File: img588_3.png -> Decoded Text: 0/
+File: img588_4.png -> Decoded Text: invairments .
+File: img588_5.png -> Decoded Text: 2
+File: img588_6.png -> Decoded Text: 511
+File: img588_7.png -> Decoded Text: universities .
+File: img588_8.png -> Decoded Text: mittled
+File: img589_0.png -> Decoded Text: geology
+File: img589_1.png -> Decoded Text: IRMNG size
+File: img589_2.png -> Decoded Text: 7 References
+File: img590_0.png -> Decoded Text: sun
+File: img590_1.png -> Decoded Text: fresh .
+File: img590_2.png -> Decoded Text: marriott
+File: img590_3.png -> Decoded Text: 0 1
+File: img591_0.png -> Decoded Text: ACCs
+File: img591_1.png -> Decoded Text: 0 0
+File: img591_2.png -> Decoded Text: extensiveness .
+File: img592_0.png -> Decoded Text: nantucket
+File: img592_1.png -> Decoded Text: WHALDING
+File: img592_2.png -> Decoded Text: 0.
+File: img592_3.png -> Decoded Text: 0.
+File: img592_4.png -> Decoded Text: south .
+File: img592_5.png -> Decoded Text: wharf
+File: img593_0.png -> Decoded Text: to
+File: img593_1.png -> Decoded Text: to
+File: img593_2.png -> Decoded Text: Print export
+File: img593_3.png -> Decoded Text: rungal
+File: img593_4.png -> Decoded Text: wigs
+File: img594_0.png -> Decoded Text: 2C
+File: img594_1.png -> Decoded Text: gentina
+File: img594_2.png -> Decoded Text: 0 3
+File: img594_3.png -> Decoded Text: 30 9
+File: img595_0.png -> Decoded Text: 3
+File: img595_1.png -> Decoded Text: sp
+File: img595_2.png -> Decoded Text: DORA 2
+File: img595_3.png -> Decoded Text: 0 5
+File: img595_4.png -> Decoded Text: out
+File: img595_5.png -> Decoded Text: unknown .
+File: img595_6.png -> Decoded Text: 0
+File: img596_0.png -> Decoded Text: employably
+File: img596_1.png -> Decoded Text: sud
+File: img596_2.png -> Decoded Text: the
+File: img596_3.png -> Decoded Text: sushi
+File: img596_4.png -> Decoded Text: aervatory
+File: img596_5.png -> Decoded Text: 0
+File: img596_6.png -> Decoded Text: 0 0
+File: img597_0.png -> Decoded Text: systemersweet
+File: img597_1.png -> Decoded Text: allament
+File: img597_10.png -> Decoded Text: the Philippines
+File: img597_12.png -> Decoded Text: newcastle
+File: img597_13.png -> Decoded Text: Not logged inTalkContributionsCreate accountLog in
+File: img597_14.png -> Decoded Text: point
+File: img597_2.png -> Decoded Text: with-th , , ,
+File: img597_3.png -> Decoded Text: fringe .
+File: img597_5.png -> Decoded Text: companies
+File: img597_6.png -> Decoded Text: rico
+File: img597_8.png -> Decoded Text: playport .
+File: img597_9.png -> Decoded Text: who children
+File: img598_0.png -> Decoded Text: Bavantita
+File: img599_0.png -> Decoded Text: 2 2
+File: img599_1.png -> Decoded Text: 1st
+File: img599_2.png -> Decoded Text: British
+File: img599_3.png -> Decoded Text: 2 1
+File: img599_4.png -> Decoded Text: 25. B.
+File: img599_5.png -> Decoded Text: EST P
+File: img599_6.png -> Decoded Text: 1 885
+File: img599_7.png -> Decoded Text: 0 2UPAN
+File: img599_8.png -> Decoded Text: 2 3
+File: img5_0.png -> Decoded Text: mexount
+File: img600_0.png -> Decoded Text: 0
+File: img600_1.png -> Decoded Text: economic
+File: img600_10.png -> Decoded Text: search
+File: img600_11.png -> Decoded Text: well ,
+File: img600_12.png -> Decoded Text: ennoxed
+File: img600_13.png -> Decoded Text: couages .
+File: img600_14.png -> Decoded Text: rainning
+File: img600_15.png -> Decoded Text: pioneered
+File: img600_16.png -> Decoded Text: 0 1
+File: img600_17.png -> Decoded Text: ciellers .
+File: img600_18.png -> Decoded Text: 1181875910
+File: img600_19.png -> Decoded Text: forey
+File: img600_2.png -> Decoded Text: spurf
+File: img600_20.png -> Decoded Text: sp
+File: img600_21.png -> Decoded Text: 511
+File: img600_22.png -> Decoded Text: poor
+File: img600_3.png -> Decoded Text: management
+File: img600_4.png -> Decoded Text: octavia
+File: img600_5.png -> Decoded Text: spill
+File: img600_6.png -> Decoded Text: social
+File: img600_7.png -> Decoded Text: reformer
+File: img600_8.png -> Decoded Text: escaped dishes .
+File: img600_9.png -> Decoded Text: this ,
+File: img601_0.png -> Decoded Text: ostering
+File: img601_1.png -> Decoded Text: camered
+File: img601_2.png -> Decoded Text: journet
+File: img602_0.png -> Decoded Text: guarage
+File: img602_1.png -> Decoded Text: topo
+File: img602_10.png -> Decoded Text: represses to
+File: img602_11.png -> Decoded Text: up its trouble .
+File: img602_14.png -> Decoded Text: 5
+File: img602_2.png -> Decoded Text: roundings
+File: img602_4.png -> Decoded Text: 0 0000
+File: img602_5.png -> Decoded Text: 0 1
+File: img602_6.png -> Decoded Text: subjectively in
+File: img602_7.png -> Decoded Text: revealization
+File: img602_8.png -> Decoded Text: rebuildingly
+File: img602_9.png -> Decoded Text: broken and television
+File: img603_0.png -> Decoded Text: s.
+File: img603_1.png -> Decoded Text: ladyning
+File: img603_2.png -> Decoded Text: Priory
+File: img604_0.png -> Decoded Text: weldon .
+File: img604_1.png -> Decoded Text: Benvenue
+File: img604_2.png -> Decoded Text: parliament .
+File: img605_0.png -> Decoded Text: burden and
+File: img605_1.png -> Decoded Text: returned like .
+File: img605_2.png -> Decoded Text: " Women's Representatives .
+File: img605_4.png -> Decoded Text: the first appearance was considered
+File: img606_0.png -> Decoded Text: to produce
+File: img606_1.png -> Decoded Text: 2 0
+File: img606_2.png -> Decoded Text: first
+File: img606_3.png -> Decoded Text: GRUB
+File: img606_4.png -> Decoded Text: to
+File: img607_0.png -> Decoded Text: port
+File: img607_1.png -> Decoded Text: oe
+File: img607_2.png -> Decoded Text: NEWCASTER
+File: img607_3.png -> Decoded Text: itsie
+File: img607_4.png -> Decoded Text: usses
+File: img608_0.png -> Decoded Text: to.
+File: img608_1.png -> Decoded Text: 2 References
+File: img608_2.png -> Decoded Text: " AUTHENTIC
+File: img608_3.png -> Decoded Text: INVUEXICIAN
+File: img608_4.png -> Decoded Text: 750 0.
+File: img608_5.png -> Decoded Text: teaks
+File: img608_6.png -> Decoded Text: Mariscos
+File: img609_0.png -> Decoded Text: Prydes
+File: img609_1.png -> Decoded Text: old
+File: img609_2.png -> Decoded Text: westport
+File: img609_4.png -> Decoded Text: 2 2
+File: img609_5.png -> Decoded Text: time .
+File: img609_6.png -> Decoded Text: not of the
+File: img610_0.png -> Decoded Text: 2 1
+File: img610_1.png -> Decoded Text: 0 .
+File: img610_2.png -> Decoded Text: 2 1
+File: img611_0.png -> Decoded Text: Redondo CO
+File: img611_1.png -> Decoded Text: beach .
+File: img611_10.png -> Decoded Text: fishermaids
+File: img611_11.png -> Decoded Text: manhattanknife
+File: img611_13.png -> Decoded Text: psychologists .
+File: img611_14.png -> Decoded Text: conductivity
+File: img611_15.png -> Decoded Text: politinentist
+File: img611_16.png -> Decoded Text: pox
+File: img611_17.png -> Decoded Text: precepted .
+File: img611_18.png -> Decoded Text: after
+File: img611_2.png -> Decoded Text: kinty
+File: img611_20.png -> Decoded Text: studitive #
+File: img611_3.png -> Decoded Text: HARBOR
+File: img611_4.png -> Decoded Text: sport
+File: img611_5.png -> Decoded Text: fashion
+File: img611_6.png -> Decoded Text: restaurants .
+File: img611_7.png -> Decoded Text: portofino
+File: img611_8.png -> Decoded Text: spoken
+File: img611_9.png -> Decoded Text: impaganda
+File: img612_0.png -> Decoded Text: SOUBLIC " MOND
+File: img612_1.png -> Decoded Text: bisuro
+File: img612_2.png -> Decoded Text: brannways .
+File: img613_0.png -> Decoded Text: SESI COUNTY
+File: img613_1.png -> Decoded Text: 0 8.
+File: img613_2.png -> Decoded Text: INCITED
+File: img614_0.png -> Decoded Text: joy
+File: img614_1.png -> Decoded Text: www money
+File: img614_2.png -> Decoded Text: juno
+File: img614_3.png -> Decoded Text: swoky
+File: img614_4.png -> Decoded Text: 0 2
+File: img614_5.png -> Decoded Text: 12
+File: img614_6.png -> Decoded Text: dixie-day
+File: img614_7.png -> Decoded Text: 0 1 .
+File: img614_8.png -> Decoded Text: Dalrietyhotiim
+File: img615_0.png -> Decoded Text: G.T
+File: img615_1.png -> Decoded Text: 0 1
+File: img615_2.png -> Decoded Text: ristorante .
+File: img615_3.png -> Decoded Text: locanda
+File: img615_4.png -> Decoded Text: di
+File: img615_5.png -> Decoded Text: non nail
+File: img615_6.png -> Decoded Text: general
+File: img616_0.png -> Decoded Text: 0 1
+File: img616_1.png -> Decoded Text: Print export
+File: img616_2.png -> Decoded Text: yi
+File: img617_0.png -> Decoded Text: running
+File: img617_1.png -> Decoded Text: Robertson .
+File: img617_10.png -> Decoded Text: jeste
+File: img617_11.png -> Decoded Text: sp
+File: img617_12.png -> Decoded Text: 0
+File: img617_14.png -> Decoded Text: 0 1
+File: img617_15.png -> Decoded Text: 0 .
+File: img617_16.png -> Decoded Text: spry
+File: img617_17.png -> Decoded Text: spits
+File: img617_18.png -> Decoded Text: impresses
+File: img617_19.png -> Decoded Text: 0 0000
+File: img617_2.png -> Decoded Text: winery .
+File: img617_20.png -> Decoded Text: to
+File: img617_21.png -> Decoded Text: 0 1
+File: img617_3.png -> Decoded Text: w.
+File: img617_5.png -> Decoded Text: 0
+File: img617_6.png -> Decoded Text: 2nd
+File: img617_7.png -> Decoded Text: 2 Personnel
+File: img617_8.png -> Decoded Text: sweet
+File: img617_9.png -> Decoded Text: red
+File: img618_0.png -> Decoded Text: a
+File: img618_1.png -> Decoded Text: 4rd
+File: img618_10.png -> Decoded Text: club
+File: img618_11.png -> Decoded Text: n.
+File: img618_2.png -> Decoded Text: 500s
+File: img618_3.png -> Decoded Text: spilly
+File: img618_4.png -> Decoded Text: 1877
+File: img618_5.png -> Decoded Text: topping
+File: img618_6.png -> Decoded Text: ticket .
+File: img618_7.png -> Decoded Text: office ,
+File: img618_8.png -> Decoded Text: deltic
+File: img618_9.png -> Decoded Text: football
+File: img619_0.png -> Decoded Text: werered on
+File: img619_1.png -> Decoded Text: 0
+File: img619_2.png -> Decoded Text: world
+File: img619_3.png -> Decoded Text: sp
+File: img620_0.png -> Decoded Text: to
+File: img620_1.png -> Decoded Text: strivella
+File: img620_2.png -> Decoded Text: passifications
+File: img621_2.png -> Decoded Text: Julais
+File: img621_3.png -> Decoded Text: singapore
+File: img621_4.png -> Decoded Text: SING A POPORIE
+File: img622_1.png -> Decoded Text: 0-
+File: img622_10.png -> Decoded Text: 44
+File: img622_12.png -> Decoded Text: 0
+File: img622_14.png -> Decoded Text: crossing
+File: img622_16.png -> Decoded Text: 100
+File: img622_17.png -> Decoded Text: 0
+File: img622_18.png -> Decoded Text: spy
+File: img622_19.png -> Decoded Text: to
+File: img622_2.png -> Decoded Text: dition .
+File: img622_20.png -> Decoded Text: system
+File: img622_21.png -> Decoded Text: willington .
+File: img622_22.png -> Decoded Text: alligator
+File: img622_25.png -> Decoded Text: denato
+File: img622_26.png -> Decoded Text: 0
+File: img622_27.png -> Decoded Text: 1970
+File: img622_3.png -> Decoded Text: prision
+File: img622_31.png -> Decoded Text: Description and entertainment
+File: img622_32.png -> Decoded Text: possedness .
+File: img622_33.png -> Decoded Text: derry
+File: img622_34.png -> Decoded Text: common
+File: img622_36.png -> Decoded Text: ugh .
+File: img622_37.png -> Decoded Text: the
+File: img622_38.png -> Decoded Text: n.
+File: img622_39.png -> Decoded Text: experience .
+File: img622_4.png -> Decoded Text: women .
+File: img622_40.png -> Decoded Text: wheel
+File: img622_41.png -> Decoded Text: stern .
+File: img622_42.png -> Decoded Text: itsie .
+File: img622_5.png -> Decoded Text: wooding
+File: img622_7.png -> Decoded Text: munition .
+File: img622_8.png -> Decoded Text: hut
+File: img622_9.png -> Decoded Text: wint
+File: img623_3.png -> Decoded Text: 2
+File: img623_4.png -> Decoded Text: 2
+File: img623_5.png -> Decoded Text: spoken
+File: img623_6.png -> Decoded Text: 0 0
+File: img623_7.png -> Decoded Text: s
+File: img623_8.png -> Decoded Text: since .
+File: img623_9.png -> Decoded Text: 1936
+File: img624_0.png -> Decoded Text: I
+File: img624_1.png -> Decoded Text: 61
+File: img624_2.png -> Decoded Text: 5 5
+File: img624_3.png -> Decoded Text: Restaurant
+File: img625_0.png -> Decoded Text: spoken .
+File: img625_1.png -> Decoded Text: bukut
+File: img625_2.png -> Decoded Text: manning
+File: img625_3.png -> Decoded Text: treatments .
+File: img625_4.png -> Decoded Text: denning
+File: img625_5.png -> Decoded Text: patrick
+File: img626_1.png -> Decoded Text: pe
+File: img626_3.png -> Decoded Text: going
+File: img626_4.png -> Decoded Text: spa
+File: img626_6.png -> Decoded Text: pb .
+File: img627_0.png -> Decoded Text: 0 0
+File: img627_1.png -> Decoded Text: BOLD B.
+File: img627_3.png -> Decoded Text: to
+File: img627_4.png -> Decoded Text: vaccination .
+File: img627_5.png -> Decoded Text: 0 1
+File: img628_0.png -> Decoded Text: extends
+File: img628_1.png -> Decoded Text: embads .
+File: img628_2.png -> Decoded Text: London .
+File: img628_3.png -> Decoded Text: entina
+File: img629_0.png -> Decoded Text: treated involvement .
+File: img629_1.png -> Decoded Text: processiveness
+File: img629_2.png -> Decoded Text: processes
+File: img629_3.png -> Decoded Text: " Francis
+File: img629_4.png -> Decoded Text: necessary
+File: img629_6.png -> Decoded Text: preissue recognition
+File: img630_0.png -> Decoded Text: a b
+File: img630_1.png -> Decoded Text: n a
+File: img631_0.png -> Decoded Text: s t
+File: img631_1.png -> Decoded Text: 7th
+File: img631_2.png -> Decoded Text: SZVV
+File: img631_3.png -> Decoded Text: 0 1
+File: img632_0.png -> Decoded Text: W.D.D.B.C.
+File: img632_1.png -> Decoded Text: opportunation
+File: img632_10.png -> Decoded Text: unknown .
+File: img632_2.png -> Decoded Text: suppression
+File: img632_3.png -> Decoded Text: gasper .
+File: img632_4.png -> Decoded Text: 000s .
+File: img632_6.png -> Decoded Text: 0
+File: img632_7.png -> Decoded Text: fightments .
+File: img632_8.png -> Decoded Text: airhol
+File: img632_9.png -> Decoded Text: 0 0
+File: img633_0.png -> Decoded Text: midway
+File: img633_1.png -> Decoded Text: to strengthen
+File: img633_2.png -> Decoded Text: 3220s
+File: img633_3.png -> Decoded Text: economic history
+File: img634_0.png -> Decoded Text: yellow .
+File: img634_1.png -> Decoded Text: to
+File: img634_2.png -> Decoded Text: outpaid .
+File: img634_3.png -> Decoded Text: town .
+File: img634_4.png -> Decoded Text: bandon .
+File: img635_0.png -> Decoded Text: 0 2
+File: img635_1.png -> Decoded Text: mitty's
+File: img635_2.png -> Decoded Text: Set
+File: img635_3.png -> Decoded Text: rli
+File: img635_4.png -> Decoded Text: spr.
+File: img635_7.png -> Decoded Text: lyssels
+File: img636_0.png -> Decoded Text: national
+File: img636_1.png -> Decoded Text: security
+File: img636_2.png -> Decoded Text: agency
+File: img636_3.png -> Decoded Text: 1
+File: img636_4.png -> Decoded Text: spousening
+File: img636_5.png -> Decoded Text: 1
+File: img636_6.png -> Decoded Text: 0g
+File: img636_7.png -> Decoded Text: 900s
+File: img636_8.png -> Decoded Text: 0
+File: img636_9.png -> Decoded Text: sp
+File: img637_0.png -> Decoded Text: sunners
+File: img637_1.png -> Decoded Text: reds
+File: img638_0.png -> Decoded Text: siti
+File: img638_1.png -> Decoded Text: of
+File: img638_2.png -> Decoded Text: 5.
+File: img639_1.png -> Decoded Text: strong
+File: img639_2.png -> Decoded Text: yang
+File: img639_3.png -> Decoded Text: STREAM
+File: img639_6.png -> Decoded Text: off
+File: img639_7.png -> Decoded Text: holiday .
+File: img639_8.png -> Decoded Text: actorically
+File: img640_0.png -> Decoded Text: Angelo's
+File: img640_1.png -> Decoded Text: ically
+File: img640_2.png -> Decoded Text: authentic
+File: img640_3.png -> Decoded Text: cucina
+File: img640_4.png -> Decoded Text: italiana
+File: img641_0.png -> Decoded Text: GANTY BURS .
+File: img641_1.png -> Decoded Text: MARK BTS
+File: img641_2.png -> Decoded Text: pince .
+File: img641_3.png -> Decoded Text: 1946
+File: img642_0.png -> Decoded Text: displaystyle
+File: img642_1.png -> Decoded Text: topping
+File: img642_10.png -> Decoded Text: 111
+File: img642_12.png -> Decoded Text: 0th
+File: img642_13.png -> Decoded Text: until
+File: img642_14.png -> Decoded Text: 100
+File: img642_15.png -> Decoded Text: 0
+File: img642_16.png -> Decoded Text: spoken
+File: img642_17.png -> Decoded Text: winton .
+File: img642_18.png -> Decoded Text: 100
+File: img642_19.png -> Decoded Text: topping
+File: img642_2.png -> Decoded Text: 0
+File: img642_20.png -> Decoded Text: 100s
+File: img642_21.png -> Decoded Text: 0
+File: img642_22.png -> Decoded Text: still
+File: img642_3.png -> Decoded Text: kazanzi
+File: img642_4.png -> Decoded Text: 1 5
+File: img642_5.png -> Decoded Text: 0
+File: img642_8.png -> Decoded Text: 1999
+File: img642_9.png -> Decoded Text: is mind arie .
+File: img643_0.png -> Decoded Text: nothic
+File: img643_1.png -> Decoded Text: se
+File: img643_10.png -> Decoded Text: to
+File: img643_11.png -> Decoded Text: 2
+File: img643_12.png -> Decoded Text: 2
+File: img643_13.png -> Decoded Text: 0 1
+File: img643_14.png -> Decoded Text: 0
+File: img643_15.png -> Decoded Text: 5
+File: img643_16.png -> Decoded Text: perro
+File: img643_2.png -> Decoded Text: 2
+File: img643_3.png -> Decoded Text: 0
+File: img643_4.png -> Decoded Text: 30
+File: img643_5.png -> Decoded Text: 2
+File: img643_6.png -> Decoded Text: l
+File: img643_7.png -> Decoded Text: 2rd
+File: img643_8.png -> Decoded Text: to
+File: img643_9.png -> Decoded Text: 2
+File: img644_1.png -> Decoded Text: S5311 in
+File: img644_2.png -> Decoded Text: " Not a nice
+File: img644_5.png -> Decoded Text: B11
+File: img645_0.png -> Decoded Text: 65.
+File: img645_1.png -> Decoded Text: nbicts
+File: img646_0.png -> Decoded Text: of boys .
+File: img646_1.png -> Decoded Text: Forward
+File: img646_2.png -> Decoded Text: 28 minutes
+File: img646_3.png -> Decoded Text: connex
+File: img647_0.png -> Decoded Text: building
+File: img647_1.png -> Decoded Text: 1977 1980
+File: img647_2.png -> Decoded Text: tory
+File: img647_3.png -> Decoded Text: store
+File: img648_0.png -> Decoded Text: 1st
+File: img648_1.png -> Decoded Text: #
+File: img648_2.png -> Decoded Text: 8 3
+File: img648_3.png -> Decoded Text: monterrey
+File: img648_4.png -> Decoded Text: harbor
+File: img648_5.png -> Decoded Text: resuppanyement
+File: img648_6.png -> Decoded Text: treated
+File: img648_7.png -> Decoded Text: prototype
+File: img648_8.png -> Decoded Text: distended to the
+File: img649_0.png -> Decoded Text: santa
+File: img649_1.png -> Decoded Text: monica
+File: img649_2.png -> Decoded Text: 0 0
+File: img649_3.png -> Decoded Text: #
+File: img649_4.png -> Decoded Text: 0 021
+File: img649_5.png -> Decoded Text: systeming
+File: img649_6.png -> Decoded Text: breating
+File: img649_7.png -> Decoded Text: goffs .
+File: img650_0.png -> Decoded Text: westport
+File: img650_1.png -> Decoded Text: file a
+File: img650_2.png -> Decoded Text: iviaries
+File: img650_3.png -> Decoded Text: riviral
+File: img650_4.png -> Decoded Text: bair .
+File: img650_5.png -> Decoded Text: grill
+File: img650_8.png -> Decoded Text: with
+File: img650_9.png -> Decoded Text: 0
+File: img651_0.png -> Decoded Text: 0
+File: img651_1.png -> Decoded Text: 0 0
+File: img651_10.png -> Decoded Text: 4 months
+File: img651_11.png -> Decoded Text: topping
+File: img651_12.png -> Decoded Text: 0 1
+File: img651_13.png -> Decoded Text: 0 1
+File: img651_14.png -> Decoded Text: 2
+File: img651_15.png -> Decoded Text: 041
+File: img651_16.png -> Decoded Text: 0
+File: img651_17.png -> Decoded Text: 0 2
+File: img651_18.png -> Decoded Text: exhaust
+File: img651_19.png -> Decoded Text: 0 1
+File: img651_2.png -> Decoded Text: 0 1
+File: img651_3.png -> Decoded Text: fy
+File: img651_4.png -> Decoded Text: year
+File: img651_5.png -> Decoded Text: 0 0
+File: img651_6.png -> Decoded Text: with
+File: img651_7.png -> Decoded Text: spoken .
+File: img651_8.png -> Decoded Text: sp
+File: img651_9.png -> Decoded Text: 0 1
+File: img652_0.png -> Decoded Text: SEBOTT STD 1.
+File: img652_1.png -> Decoded Text: streaks
+File: img652_10.png -> Decoded Text: 2
+File: img652_11.png -> Decoded Text: new
+File: img652_2.png -> Decoded Text: Bats 3-
+File: img652_3.png -> Decoded Text: 13 Workers
+File: img652_4.png -> Decoded Text: seafood
+File: img652_5.png -> Decoded Text: reserved .
+File: img652_6.png -> Decoded Text: parking ,
+File: img652_7.png -> Decoded Text: van
+File: img652_8.png -> Decoded Text: accessible
+File: img652_9.png -> Decoded Text: five
+File: img653_0.png -> Decoded Text: reservation
+File: img653_1.png -> Decoded Text: revolution
+File: img653_10.png -> Decoded Text: uppelights .
+File: img653_11.png -> Decoded Text: royword
+File: img653_12.png -> Decoded Text: singapore
+File: img653_13.png -> Decoded Text: treated by
+File: img653_2.png -> Decoded Text: contemptants
+File: img653_3.png -> Decoded Text: who
+File: img653_4.png -> Decoded Text: 2 .
+File: img653_5.png -> Decoded Text: approaches .
+File: img653_6.png -> Decoded Text: opportunity
+File: img653_7.png -> Decoded Text: 121
+File: img653_8.png -> Decoded Text: probiary
+File: img653_9.png -> Decoded Text: psub
+File: img654_0.png -> Decoded Text: sloppy
+File: img654_1.png -> Decoded Text: does
+File: img654_2.png -> Decoded Text: Treasure
+File: img654_3.png -> Decoded Text: island .
+File: img654_4.png -> Decoded Text: 0m.
+File: img654_5.png -> Decoded Text: else
+File: img654_6.png -> Decoded Text: beach .
+File: img654_7.png -> Decoded Text: bazzzie's
+File: img654_8.png -> Decoded Text: to establish
+File: img654_9.png -> Decoded Text: o a.
+File: img655_0.png -> Decoded Text: treated by
+File: img655_1.png -> Decoded Text: REBRED BEGINWAY
+File: img655_2.png -> Decoded Text: fifty
+File: img655_3.png -> Decoded Text: 1930
+File: img656_0.png -> Decoded Text: selamat
+File: img656_1.png -> Decoded Text: datang
+File: img656_10.png -> Decoded Text: ipark .
+File: img656_11.png -> Decoded Text: teh .
+File: img656_2.png -> Decoded Text: memoiri
+File: img656_3.png -> Decoded Text: " D'taning
+File: img656_4.png -> Decoded Text: assam
+File: img656_5.png -> Decoded Text: pusat ,
+File: img656_6.png -> Decoded Text: imini .
+File: img656_7.png -> Decoded Text: reakrasi
+File: img656_8.png -> Decoded Text: itel
+File: img656_9.png -> Decoded Text: 019-4670126
+File: img657_0.png -> Decoded Text: inflation
+File: img657_1.png -> Decoded Text: SAF 59
+File: img658_0.png -> Decoded Text: 0 0
+File: img658_1.png -> Decoded Text: 2 0
+File: img658_2.png -> Decoded Text: 0 1
+File: img658_3.png -> Decoded Text: 2 0
+File: img658_4.png -> Decoded Text: # Hollywood
+File: img658_5.png -> Decoded Text: crinton .
+File: img658_7.png -> Decoded Text: 0
+File: img659_0.png -> Decoded Text: siti
+File: img659_1.png -> Decoded Text: spots
+File: img659_10.png -> Decoded Text: 6a
+File: img659_11.png -> Decoded Text: gate
+File: img659_12.png -> Decoded Text: muddy's
+File: img659_13.png -> Decoded Text: oil
+File: img659_14.png -> Decoded Text: 0 7
+File: img659_2.png -> Decoded Text: cull
+File: img659_3.png -> Decoded Text: public issues .
+File: img659_4.png -> Decoded Text: excess
+File: img659_5.png -> Decoded Text: 4th
+File: img659_6.png -> Decoded Text: a
+File: img659_7.png -> Decoded Text: 0 0
+File: img659_8.png -> Decoded Text: statutoryists
+File: img659_9.png -> Decoded Text: sister
+File: img660_0.png -> Decoded Text: will provide
+File: img660_1.png -> Decoded Text: drexed
+File: img660_2.png -> Decoded Text: touter .
+File: img660_3.png -> Decoded Text: 97.
+File: img660_4.png -> Decoded Text: po
+File: img660_5.png -> Decoded Text: a
+File: img661_0.png -> Decoded Text: accord recognition .
+File: img661_1.png -> Decoded Text: a b. Brownville Pennsylvania
+File: img661_2.png -> Decoded Text: 2
+File: img661_3.png -> Decoded Text: 87
+File: img661_4.png -> Decoded Text: rockers
+File: img661_5.png -> Decoded Text: 2
+File: img661_6.png -> Decoded Text: five .
+File: img661_7.png -> Decoded Text: 5.
+File: img661_8.png -> Decoded Text: common
+File: img662_0.png -> Decoded Text: spoop
+File: img662_1.png -> Decoded Text: jobs on
+File: img662_10.png -> Decoded Text: nigues
+File: img662_11.png -> Decoded Text: strong
+File: img662_12.png -> Decoded Text: rebuss com
+File: img662_13.png -> Decoded Text: point
+File: img662_2.png -> Decoded Text: propylene
+File: img662_3.png -> Decoded Text: 2 1
+File: img662_4.png -> Decoded Text: biggs .
+File: img662_5.png -> Decoded Text: jack
+File: img662_6.png -> Decoded Text: danteresses .
+File: img662_7.png -> Decoded Text: repulsive
+File: img662_8.png -> Decoded Text: spy
+File: img662_9.png -> Decoded Text: site
+File: img663_0.png -> Decoded Text: ITNGS
+File: img663_1.png -> Decoded Text: palace
+File: img663_10.png -> Decoded Text: refee25900s .
+File: img663_5.png -> Decoded Text: 0 0
+File: img663_6.png -> Decoded Text: poststop
+File: img664_0.png -> Decoded Text: its
+File: img664_1.png -> Decoded Text: 113.
+File: img664_10.png -> Decoded Text: moreport
+File: img664_11.png -> Decoded Text: continuum
+File: img664_12.png -> Decoded Text: unknown .
+File: img664_13.png -> Decoded Text: 0
+File: img664_14.png -> Decoded Text: 0
+File: img664_15.png -> Decoded Text: wows .
+File: img664_16.png -> Decoded Text: veruncity .
+File: img664_17.png -> Decoded Text: 2 2
+File: img664_18.png -> Decoded Text: a bibliographical background
+File: img664_19.png -> Decoded Text: businessmen .
+File: img664_2.png -> Decoded Text: 885
+File: img664_20.png -> Decoded Text: will
+File: img664_21.png -> Decoded Text: wouter .
+File: img664_25.png -> Decoded Text: "
+File: img664_27.png -> Decoded Text: corrected
+File: img664_28.png -> Decoded Text: precedence
+File: img664_29.png -> Decoded Text: up its existence
+File: img664_3.png -> Decoded Text: 1
+File: img664_30.png -> Decoded Text: spinningness .
+File: img664_31.png -> Decoded Text: 0 0
+File: img664_32.png -> Decoded Text: displaystyle
+File: img664_33.png -> Decoded Text: sigg
+File: img664_34.png -> Decoded Text: 0
+File: img664_35.png -> Decoded Text: yellowing
+File: img664_36.png -> Decoded Text: 2
+File: img664_37.png -> Decoded Text: 7
+File: img664_38.png -> Decoded Text: 2
+File: img664_39.png -> Decoded Text: 1st
+File: img664_5.png -> Decoded Text: 0 0
+File: img664_6.png -> Decoded Text: 0 1
+File: img664_7.png -> Decoded Text: ydd
+File: img664_8.png -> Decoded Text: suden
+File: img664_9.png -> Decoded Text: spoken
+File: img665_0.png -> Decoded Text: 0.
+File: img665_1.png -> Decoded Text: est
+File: img665_2.png -> Decoded Text: 2th generation .
+File: img665_3.png -> Decoded Text: bridged
+File: img666_0.png -> Decoded Text: ple
+File: img666_1.png -> Decoded Text: saunded
+File: img666_10.png -> Decoded Text: the
+File: img666_11.png -> Decoded Text: spi
+File: img666_12.png -> Decoded Text: told
+File: img666_13.png -> Decoded Text: 0
+File: img666_14.png -> Decoded Text: top
+File: img666_2.png -> Decoded Text: suspension
+File: img666_3.png -> Decoded Text: BRID G.
+File: img666_4.png -> Decoded Text: wills .
+File: img666_5.png -> Decoded Text: forces say
+File: img666_6.png -> Decoded Text: " Recent treatment
+File: img666_7.png -> Decoded Text: inter-systemments
+File: img666_8.png -> Decoded Text: sudid
+File: img666_9.png -> Decoded Text: 111
+File: img667_0.png -> Decoded Text: sp
+File: img667_1.png -> Decoded Text: 0th sides
+File: img668_0.png -> Decoded Text: garivano
+File: img668_1.png -> Decoded Text: vivorousities
+File: img668_10.png -> Decoded Text: 0
+File: img668_11.png -> Decoded Text: 2
+File: img668_12.png -> Decoded Text: wout
+File: img668_13.png -> Decoded Text: 0
+File: img668_14.png -> Decoded Text: 0
+File: img668_2.png -> Decoded Text: unnlimited
+File: img668_3.png -> Decoded Text: admission
+File: img668_4.png -> Decoded Text: sfi
+File: img668_5.png -> Decoded Text: 365.
+File: img668_6.png -> Decoded Text: lowers .
+File: img668_7.png -> Decoded Text: discounts
+File: img668_8.png -> Decoded Text: former
+File: img668_9.png -> Decoded Text: sUDOCs
+File: img669_0.png -> Decoded Text: 0, United
+File: img669_1.png -> Decoded Text: ( McCulloughton .
+File: img669_2.png -> Decoded Text: Points
+File: img670_0.png -> Decoded Text: equivio
+File: img670_1.png -> Decoded Text: using
+File: img670_2.png -> Decoded Text: 4.47
+File: img670_3.png -> Decoded Text: 0 1
+File: img670_5.png -> Decoded Text: 03 3543.771
+File: img670_8.png -> Decoded Text: exits
+File: img671_0.png -> Decoded Text: morewives
+File: img671_1.png -> Decoded Text: lettering
+File: img671_10.png -> Decoded Text: 1960
+File: img671_11.png -> Decoded Text: 0 .
+File: img671_14.png -> Decoded Text: brumpy
+File: img671_15.png -> Decoded Text: 0 1 .
+File: img671_16.png -> Decoded Text: 7 ,
+File: img671_2.png -> Decoded Text: Leadering
+File: img671_3.png -> Decoded Text: 0 1
+File: img671_4.png -> Decoded Text: govern
+File: img671_5.png -> Decoded Text: 0 0000
+File: img671_6.png -> Decoded Text: 0 0
+File: img671_7.png -> Decoded Text: 8
+File: img671_8.png -> Decoded Text: sp
+File: img671_9.png -> Decoded Text: second
+File: img672_0.png -> Decoded Text: caffe .
+File: img672_1.png -> Decoded Text: larre
+File: img672_10.png -> Decoded Text: 0 0
+File: img672_11.png -> Decoded Text: 0
+File: img672_12.png -> Decoded Text: vele
+File: img672_13.png -> Decoded Text: opticities .
+File: img672_14.png -> Decoded Text: and not
+File: img672_15.png -> Decoded Text: frosty
+File: img672_16.png -> Decoded Text: decisions .
+File: img672_17.png -> Decoded Text: domenico
+File: img672_18.png -> Decoded Text: 160
+File: img672_2.png -> Decoded Text: 2
+File: img672_3.png -> Decoded Text: TRD
+File: img672_5.png -> Decoded Text: mile .
+File: img672_6.png -> Decoded Text: mountain .
+File: img672_8.png -> Decoded Text: 107
+File: img672_9.png -> Decoded Text: health .
+File: img673_1.png -> Decoded Text: 35
+File: img673_4.png -> Decoded Text: Pezzarty
+File: img673_5.png -> Decoded Text: thebes of the House
+File: img673_6.png -> Decoded Text: 2/
+File: img674_0.png -> Decoded Text: 0 7
+File: img674_1.png -> Decoded Text: toasted
+File: img674_10.png -> Decoded Text: fang
+File: img674_11.png -> Decoded Text: gi
+File: img674_12.png -> Decoded Text: sn
+File: img674_2.png -> Decoded Text: 2010
+File: img674_3.png -> Decoded Text: exana days .
+File: img674_4.png -> Decoded Text: success
+File: img674_5.png -> Decoded Text: sfi
+File: img674_6.png -> Decoded Text: a
+File: img674_7.png -> Decoded Text: canada's
+File: img674_8.png -> Decoded Text: gilobally
+File: img674_9.png -> Decoded Text: anada
+File: img675_0.png -> Decoded Text: 0
+File: img675_1.png -> Decoded Text: than .
+File: img675_2.png -> Decoded Text: just
+File: img675_3.png -> Decoded Text: streamers .
+File: img675_5.png -> Decoded Text: sisters .
+File: img675_6.png -> Decoded Text: 1955 56
+File: img676_0.png -> Decoded Text: national
+File: img676_1.png -> Decoded Text: centurn .
+File: img676_2.png -> Decoded Text: 6C
+File: img676_3.png -> Decoded Text: gentina
+File: img676_4.png -> Decoded Text: 6
+File: img676_5.png -> Decoded Text: 900
+File: img677_0.png -> Decoded Text: room .
+File: img677_1.png -> Decoded Text: explex
+File: img677_2.png -> Decoded Text: 2 Personnel
+File: img678_0.png -> Decoded Text: KENNISE
+File: img678_1.png -> Decoded Text: spokenhouse
+File: img678_2.png -> Decoded Text: W.SDEN
+File: img679_0.png -> Decoded Text: in a
+File: img679_1.png -> Decoded Text: exreposed
+File: img679_2.png -> Decoded Text: troy
+File: img679_3.png -> Decoded Text: retries
+File: img679_4.png -> Decoded Text: savitation .
+File: img679_5.png -> Decoded Text: spoken
+File: img6_0.png -> Decoded Text: spy
+File: img6_1.png -> Decoded Text: at
+File: img6_10.png -> Decoded Text: airports .
+File: img6_2.png -> Decoded Text: channing
+File: img6_3.png -> Decoded Text: save
+File: img6_4.png -> Decoded Text: more .
+File: img6_5.png -> Decoded Text: lowest
+File: img6_6.png -> Decoded Text: price
+File: img6_7.png -> Decoded Text: jin
+File: img6_8.png -> Decoded Text: asia
+File: img6_9.png -> Decoded Text: pacific
+File: img791_0.png -> Decoded Text: announce
+File: img791_1.png -> Decoded Text: reload
+File: img791_10.png -> Decoded Text: reload
+File: img791_11.png -> Decoded Text: now .
+File: img791_12.png -> Decoded Text: surf
+File: img791_13.png -> Decoded Text: credit .
+File: img791_14.png -> Decoded Text: more .
+File: img791_15.png -> Decoded Text: more .
+File: img791_16.png -> Decoded Text: get
+File: img791_17.png -> Decoded Text: 1 090
+File: img791_18.png -> Decoded Text: more .
+File: img791_19.png -> Decoded Text: and
+File: img791_2.png -> Decoded Text: credit
+File: img791_20.png -> Decoded Text: talk
+File: img791_21.png -> Decoded Text: to
+File: img791_22.png -> Decoded Text: play
+File: img791_23.png -> Decoded Text: pigi
+File: img791_24.png -> Decoded Text: prepaidtm
+File: img791_25.png -> Decoded Text: mynews com
+File: img791_27.png -> Decoded Text: beload
+File: img791_28.png -> Decoded Text: Bonanza
+File: img791_29.png -> Decoded Text: lupi
+File: img791_3.png -> Decoded Text: local
+File: img791_30.png -> Decoded Text: to
+File: img791_31.png -> Decoded Text: free
+File: img791_32.png -> Decoded Text: itson .
+File: img791_33.png -> Decoded Text: easy
+File: img791_4.png -> Decoded Text: more .
+File: img791_5.png -> Decoded Text: enjoy
+File: img791_6.png -> Decoded Text: credits
+File: img791_7.png -> Decoded Text: local
+File: img791_8.png -> Decoded Text: FR 2
+File: img791_9.png -> Decoded Text: and
+File: img792_0.png -> Decoded Text: hong
+File: img792_1.png -> Decoded Text: arts
+File: img792_2.png -> Decoded Text: ministry
+File: img792_3.png -> Decoded Text: gospel
+File: img792_4.png -> Decoded Text: kong
+File: img792_5.png -> Decoded Text: martial
+File: img792_7.png -> Decoded Text: systems
+File: img793_0.png -> Decoded Text: goodness
+File: img793_1.png -> Decoded Text: homemade
+File: img793_10.png -> Decoded Text: mondle
+File: img793_11.png -> Decoded Text: Lists less
+File: img793_12.png -> Decoded Text: 100
+File: img793_13.png -> Decoded Text: good .
+File: img793_14.png -> Decoded Text: no
+File: img793_15.png -> Decoded Text: some
+File: img793_16.png -> Decoded Text: nutpitious
+File: img793_17.png -> Decoded Text: undfore in
+File: img793_18.png -> Decoded Text: firesfully
+File: img793_19.png -> Decoded Text: and
+File: img793_2.png -> Decoded Text: eco
+File: img793_20.png -> Decoded Text: progressive
+File: img793_21.png -> Decoded Text: women
+File: img793_22.png -> Decoded Text: entry
+File: img793_23.png -> Decoded Text: syn
+File: img793_24.png -> Decoded Text: tty
+File: img793_25.png -> Decoded Text: troy
+File: img793_26.png -> Decoded Text: selfies
+File: img793_27.png -> Decoded Text: 0 1
+File: img793_28.png -> Decoded Text: post to
+File: img793_29.png -> Decoded Text: rady
+File: img793_3.png -> Decoded Text: artificial
+File: img793_30.png -> Decoded Text: " YOU try .
+File: img793_31.png -> Decoded Text: view .
+File: img793_32.png -> Decoded Text: 0 0
+File: img793_34.png -> Decoded Text: trust .
+File: img793_35.png -> Decoded Text: curtially
+File: img793_36.png -> Decoded Text: clove
+File: img793_37.png -> Decoded Text: a
+File: img793_38.png -> Decoded Text: fs.
+File: img793_39.png -> Decoded Text: toil
+File: img793_4.png -> Decoded Text: ingredients .
+File: img793_40.png -> Decoded Text: loch
+File: img793_5.png -> Decoded Text: delicious
+File: img793_6.png -> Decoded Text: excerpting
+File: img793_7.png -> Decoded Text: better
+File: img793_8.png -> Decoded Text: today .
+File: img793_9.png -> Decoded Text: reval
+File: img794_0.png -> Decoded Text: 3
+File: img794_1.png -> Decoded Text: n
+File: img794_2.png -> Decoded Text: Rioiszirino
+File: img795_0.png -> Decoded Text: look
+File: img795_1.png -> Decoded Text: milk
+File: img795_2.png -> Decoded Text: for
+File: img795_3.png -> Decoded Text: ac.
+File: img795_4.png -> Decoded Text: 2
+File: img795_5.png -> Decoded Text: 0 5
+File: img795_6.png -> Decoded Text: 2,
+File: img795_7.png -> Decoded Text: California
+File: img795_8.png -> Decoded Text: it
+File: img796_0.png -> Decoded Text: stream
+File: img796_1.png -> Decoded Text: out
+File: img796_2.png -> Decoded Text: tene
+File: img796_3.png -> Decoded Text: to produce
+File: img796_4.png -> Decoded Text: the most important history of the American Revolution
+File: img797_0.png -> Decoded Text: spouses
+File: img797_1.png -> Decoded Text: postball
+File: img798_0.png -> Decoded Text: zauner .
+File: img798_1.png -> Decoded Text: ingrid
+File: img798_2.png -> Decoded Text: znamou
+File: img798_3.png -> Decoded Text: friseursation ,
+File: img798_4.png -> Decoded Text: systems
+File: img799_3.png -> Decoded Text: 0 1
+File: img799_4.png -> Decoded Text: porteen
+File: img799_5.png -> Decoded Text: current
+File: img7_0.png -> Decoded Text: spots
+File: img7_2.png -> Decoded Text: BOLD 5
+File: img7_3.png -> Decoded Text: you sitting
+File: img800_0.png -> Decoded Text: creation
+File: img800_1.png -> Decoded Text: museum
+File: img800_2.png -> Decoded Text: exit 1
+File: img800_3.png -> Decoded Text: keen
+File: img800_4.png -> Decoded Text: couples .
+File: img800_5.png -> Decoded Text: Tank-Neosaurus .
+File: img800_6.png -> Decoded Text: to the
+File: img800_7.png -> Decoded Text: 11.
+File: img866_0.png -> Decoded Text: would day
+File: img866_1.png -> Decoded Text: bakers
+File: img866_2.png -> Decoded Text: 1931
+File: img866_3.png -> Decoded Text: accumbination
+File: img891_0.png -> Decoded Text: little attention
+File: img891_10.png -> Decoded Text: concentrated
+File: img891_12.png -> Decoded Text: s
+File: img891_13.png -> Decoded Text: necessary
+File: img891_14.png -> Decoded Text: os .
+File: img891_15.png -> Decoded Text: kissiness
+File: img891_16.png -> Decoded Text: strong
+File: img891_17.png -> Decoded Text: spits
+File: img891_18.png -> Decoded Text: spoken
+File: img891_19.png -> Decoded Text: glenner
+File: img891_2.png -> Decoded Text: total
+File: img891_20.png -> Decoded Text: lenging
+File: img891_21.png -> Decoded Text: diseresses
+File: img891_22.png -> Decoded Text: impressed
+File: img891_23.png -> Decoded Text: necessary
+File: img891_3.png -> Decoded Text: ceaning .
+File: img891_4.png -> Decoded Text: solution .
+File: img891_5.png -> Decoded Text: munt .
+File: img891_6.png -> Decoded Text: librettum .
+File: img891_7.png -> Decoded Text: grig
+File: img891_8.png -> Decoded Text: dettieship
+File: img891_9.png -> Decoded Text: systems .
+File: img892_0.png -> Decoded Text: factory
+File: img892_1.png -> Decoded Text: situting
+File: img892_10.png -> Decoded Text: the crew .
+File: img892_11.png -> Decoded Text: escending
+File: img892_13.png -> Decoded Text: out-
+File: img892_14.png -> Decoded Text: machines
+File: img892_15.png -> Decoded Text: progress
+File: img892_16.png -> Decoded Text: libraries .
+File: img892_17.png -> Decoded Text: progressiveness
+File: img892_18.png -> Decoded Text: thebes of the
+File: img892_19.png -> Decoded Text: adheresness .
+File: img892_2.png -> Decoded Text: sewing .
+File: img892_20.png -> Decoded Text: picovers
+File: img892_3.png -> Decoded Text: motor
+File: img892_4.png -> Decoded Text: machine .
+File: img892_5.png -> Decoded Text: sales .
+File: img892_6.png -> Decoded Text: super
+File: img892_7.png -> Decoded Text: service .
+File: img892_8.png -> Decoded Text: 00.
+File: img893_0.png -> Decoded Text: support
+File: img893_1.png -> Decoded Text: breastfeeding .
+File: img893_10.png -> Decoded Text: life !
+File: img893_2.png -> Decoded Text: we
+File: img893_3.png -> Decoded Text: breastfeeding
+File: img893_4.png -> Decoded Text: Birchall Street Exchange
+File: img893_5.png -> Decoded Text: truveck !
+File: img893_6.png -> Decoded Text: 2C
+File: img893_7.png -> Decoded Text: vaultments
+File: img893_8.png -> Decoded Text: siti
+File: img893_9.png -> Decoded Text: tore .
+File: img894_0.png -> Decoded Text: cross
+File: img894_1.png -> Decoded Text: silyer
+File: img894_2.png -> Decoded Text: JB 71.
+File: img894_3.png -> Decoded Text: downersicalities
+File: img894_6.png -> Decoded Text: a member of the American Government
+File: img894_7.png -> Decoded Text: will be
+File: img895_1.png -> Decoded Text: 0 0000000000
+File: img896_1.png -> Decoded Text: deo
+File: img896_3.png -> Decoded Text: www success
+File: img896_4.png -> Decoded Text: exhaust
+File: img897_2.png -> Decoded Text: liddells
+File: img897_3.png -> Decoded Text: varooing
+File: img897_4.png -> Decoded Text: wrote
+File: img897_5.png -> Decoded Text: to produce
+File: img897_6.png -> Decoded Text: cream .
+File: img897_7.png -> Decoded Text: successes
+File: img897_8.png -> Decoded Text: 250s
+File: img898_1.png -> Decoded Text: busicut .
+File: img898_2.png -> Decoded Text: 13 years .
+File: img898_3.png -> Decoded Text: original
+File: img898_4.png -> Decoded Text: rice
+File: img898_5.png -> Decoded Text: crackers .
+File: img898_6.png -> Decoded Text: ternitive
+File: img899_0.png -> Decoded Text: successes
+File: img899_1.png -> Decoded Text: nomanderies .
+File: img899_2.png -> Decoded Text: to
+File: img8_0.png -> Decoded Text: spa
+File: img8_1.png -> Decoded Text: six .
+File: img8_2.png -> Decoded Text: 0
+File: img8_3.png -> Decoded Text: rcasted
+File: img8_4.png -> Decoded Text: 0358
+File: img8_5.png -> Decoded Text: pokka
+File: img8_6.png -> Decoded Text: cafe .
+File: img900_0.png -> Decoded Text: 1. See
+File: img900_1.png -> Decoded Text: 0 1
+File: img900_2.png -> Decoded Text: sixty
+File: img900_3.png -> Decoded Text: spokane
+File: img903_0.png -> Decoded Text: a
+File: img903_1.png -> Decoded Text: 3
+File: img903_10.png -> Decoded Text: 992
+File: img903_11.png -> Decoded Text: 990
+File: img903_12.png -> Decoded Text: 2
+File: img903_13.png -> Decoded Text: fog
+File: img903_14.png -> Decoded Text: sp
+File: img903_15.png -> Decoded Text: 2
+File: img903_16.png -> Decoded Text: 5
+File: img903_2.png -> Decoded Text: Betsy
+File: img903_3.png -> Decoded Text: 0
+File: img903_4.png -> Decoded Text: craving
+File: img903_5.png -> Decoded Text: for
+File: img903_6.png -> Decoded Text: tine
+File: img903_7.png -> Decoded Text: sister
+File: img903_8.png -> Decoded Text: wing
+File: img903_9.png -> Decoded Text: 99Hz
+File: img91_0.png -> Decoded Text: sited
+File: img91_1.png -> Decoded Text: 2' 57
+File: img92_0.png -> Decoded Text: 0 2 Station
+File: img92_1.png -> Decoded Text: mackaway
+File: img92_2.png -> Decoded Text: exhaust
+File: img92_3.png -> Decoded Text: teti
+File: img92_4.png -> Decoded Text: examiner .
+File: img93_0.png -> Decoded Text: HQ 2 .
+File: img93_1.png -> Decoded Text: " Dringley ,
+File: img93_2.png -> Decoded Text: theme .
+File: img93_3.png -> Decoded Text: opportunals
+File: img93_4.png -> Decoded Text: subcontinent
+File: img93_5.png -> Decoded Text: to
+File: img94_0.png -> Decoded Text: 2 1
+File: img94_1.png -> Decoded Text: power
+File: img94_2.png -> Decoded Text: 1
+File: img94_3.png -> Decoded Text: 1 2 6
+File: img95_0.png -> Decoded Text: 2
+File: img95_1.png -> Decoded Text: 0 2
+File: img95_2.png -> Decoded Text: goies
+File: img95_3.png -> Decoded Text: a
+File: img96_0.png -> Decoded Text: 0 0
+File: img96_1.png -> Decoded Text: 3 History
+File: img96_10.png -> Decoded Text: off
+File: img96_11.png -> Decoded Text: Computer
+File: img96_12.png -> Decoded Text: science
+File: img96_13.png -> Decoded Text: was
+File: img96_14.png -> Decoded Text: born .
+File: img96_15.png -> Decoded Text: here
+File: img96_2.png -> Decoded Text: ave an
+File: img96_3.png -> Decoded Text: ttourning
+File: img96_4.png -> Decoded Text: 1912
+File: img96_5.png -> Decoded Text: 1954
+File: img96_6.png -> Decoded Text: code
+File: img96_7.png -> Decoded Text: forealker
+File: img96_8.png -> Decoded Text: and
+File: img96_9.png -> Decoded Text: Pioneer
+File: img97_0.png -> Decoded Text: 6 References
+File: img97_1.png -> Decoded Text: 13 B.
+File: img97_2.png -> Decoded Text: s
+File: img97_3.png -> Decoded Text: company
+File: img97_4.png -> Decoded Text: siti
+File: img97_5.png -> Decoded Text: 0st
+File: img98_0.png -> Decoded Text: off finish
+File: img98_1.png -> Decoded Text: spouses .
+File: img98_2.png -> Decoded Text: 0
+File: img991_0.png -> Decoded Text: of 70
+File: img991_1.png -> Decoded Text: 1sto
+File: img991_2.png -> Decoded Text: 1849
+File: img991_3.png -> Decoded Text: are not
+File: img992_0.png -> Decoded Text: 2 079
+File: img992_1.png -> Decoded Text: airway
+File: img992_2.png -> Decoded Text: INCIDENT GIS
+File: img992_3.png -> Decoded Text: cm
+File: img992_4.png -> Decoded Text: economic
+File: img992_5.png -> Decoded Text: 0
+File: img992_6.png -> Decoded Text: 0th
+File: img993_0.png -> Decoded Text: take
+File: img993_1.png -> Decoded Text: 2
+File: img993_11.png -> Decoded Text: from
+File: img993_12.png -> Decoded Text: checkmen .
+File: img993_13.png -> Decoded Text: itza
+File: img993_2.png -> Decoded Text: a
+File: img993_3.png -> Decoded Text: stop
+File: img993_4.png -> Decoded Text: ult
+File: img993_5.png -> Decoded Text: to
+File: img994_0.png -> Decoded Text: What links hereRelated changesUpload file
+File: img994_1.png -> Decoded Text: 0
+File: img994_2.png -> Decoded Text: 0
+File: img995_0.png -> Decoded Text: olo e
+File: img995_1.png -> Decoded Text: to
+File: img995_10.png -> Decoded Text: 0
+File: img995_3.png -> Decoded Text: women .
+File: img995_4.png -> Decoded Text: slatter
+File: img995_5.png -> Decoded Text: sUDOC
+File: img995_6.png -> Decoded Text: topping the
+File: img995_9.png -> Decoded Text: 0
+File: img996_1.png -> Decoded Text: mining
+File: img996_2.png -> Decoded Text: millister
+File: img996_3.png -> Decoded Text: Farmers .
+File: img996_4.png -> Decoded Text: spa
+File: img996_5.png -> Decoded Text: wikom
+File: img996_6.png -> Decoded Text: lolympus .
+File: img996_7.png -> Decoded Text: certain
+File: img997_0.png -> Decoded Text: loss still
+File: img997_1.png -> Decoded Text: management information
+File: img997_10.png -> Decoded Text: to join
+File: img997_11.png -> Decoded Text: using
+File: img997_12.png -> Decoded Text: equious
+File: img997_13.png -> Decoded Text: spots
+File: img997_14.png -> Decoded Text: quietting
+File: img997_15.png -> Decoded Text: other activities
+File: img997_16.png -> Decoded Text: topping
+File: img997_17.png -> Decoded Text: 0 0000
+File: img997_18.png -> Decoded Text: equiver fright
+File: img997_3.png -> Decoded Text: 2
+File: img997_4.png -> Decoded Text: toasted
+File: img997_5.png -> Decoded Text: correct
+File: img997_6.png -> Decoded Text: thimes .
+File: img997_7.png -> Decoded Text: of
+File: img997_8.png -> Decoded Text: 0
+File: img997_9.png -> Decoded Text: process
+File: img998_0.png -> Decoded Text: proof
+File: img998_1.png -> Decoded Text: carrice
+File: img998_10.png -> Decoded Text: 0 1
+File: img998_12.png -> Decoded Text: brack
+File: img998_13.png -> Decoded Text: Whitely
+File: img998_2.png -> Decoded Text: scopicier
+File: img998_3.png -> Decoded Text: whigskey
+File: img998_4.png -> Decoded Text: isbello
+File: img998_5.png -> Decoded Text: product
+File: img998_6.png -> Decoded Text: buchanan's
+File: img998_7.png -> Decoded Text: alienid
+File: img998_8.png -> Decoded Text: special
+File: img999_0.png -> Decoded Text: # strong the
+File: img999_1.png -> Decoded Text: tbit-
+File: img999_2.png -> Decoded Text: wied up
+File: img999_3.png -> Decoded Text: lattoo
+File: img999_4.png -> Decoded Text: who saw
+File: img999_5.png -> Decoded Text: studio
+File: img999_6.png -> Decoded Text: thanland
+File: img99_0.png -> Decoded Text: garpe
+File: img99_1.png -> Decoded Text: off try
+File: img9_0.png -> Decoded Text: BPI B.B.
+File: img9_1.png -> Decoded Text: 0 1/0 2
